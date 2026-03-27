@@ -1,3 +1,1121 @@
-taxonID	name	transliteration	language	country	lifeStage	sex	referenceID	remarks
-1001	Baker's hawksbeard		eng				wp1	remarks
-hybrid	Heritage® Hybrid Oak		eng				heritage	remarks
+taxonID	name	language
+3096	Yellow-bellied Weasel	eng
+3096	Comadreja de vientre amarillo	spa
+3096	Belette à ventre jaune	fra
+3199	Mississippi map turtle	eng
+3199	False Map Turtle	eng
+3218	Ciervo porcino	spa
+3218	Indochina hog deer	eng
+3218	Indian hog deer	eng
+3218	Cerf-cochon	fra
+3218	Hog Deer	eng
+3270	Ocellated Turkey	eng
+3270	Dindon ocellé	fra
+3270	Guajolote ocelado	spa
+3270	Pavo ocelado	spa
+3318	Alcaraván americano	spa
+3318	Dara	spa
+3318	Alcaraván venozolano	spa
+3318	Oedicnème Bistrié	fra
+3318	Double-striped Thick-knee	eng
+3318	Alcaraván dara	spa
+3318	Oedicnème américain	fra
+3361	Galápago europeo	spa
+3361	European Pond Terrapin	eng
+3361	European Pond Turtle	eng
+3361	Cistude	fra
+3361	Cistude d'Europe	fra
+3474	Kawekaweau	eng
+3474	Delcourt's Sticky-toed Gecko	eng
+3507	Jote real	spa
+3507	Carcoramphe roi	fra
+3507	Roi des vautours	fra
+3507	Sarcoramphe roi	fra
+3507	Vautour page	fra
+3507	vautour pape	fra
+3507	Vautour royal	fra
+3507	Gallinazo rey	spa
+3507	King Vulture	eng
+3507	Zopilote rey	spa
+3507	Rey zamuro	spa
+3685	Civeta malabar	spa
+3685	Civette à grandes taches	fra
+3685	Malabar Large-spotted Civet	eng
+3685	Malabar Civet	eng
+3745	Pénélope noire	fra
+3745	Pénélope pajuil	fra
+3745	Black Chachalaca	eng
+3745	Pava pajuil	spa
+3745	Black Penelopina	eng
+3745	Highland Guan	eng
+3745	Little Guan	eng
+3745	Black Pajuil	eng
+3745	Chachalaca negra	spa
+3745	Guan negro	spa
+3747	paují turbante	spa
+3747	Pavón moquiamarilllo	spa
+3747	Pavón porú	spa
+3747	Paují de copete	spa
+3747	Hocco de Daubenton	fra
+3747	Pavón poría	spa
+3747	Yellow-knobbed Curassow	eng
+3747	Daubenton's Curassow	eng
+3747	Hoco de Daubenton	spa
+3839	Faisan leucomèle	fra
+3839	Faisán kálij	spa
+3839	Kalij Pheasant	eng
+3868	Serpiente acuática verde con escamas de quilla	spa
+3868	Olivaceous Keelback	eng
+3868	Olive keel-back	eng
+3868	Split Keelback	eng
+3868	Olive keelback wart snake	eng
+3868	Serpent ardoisé	fra
+3868	Serpent à carènes olive	fra
+3868	Serpent à caréné olive	fra
+3868	Olive keelback water snake	eng
+3868	Split keelback snake	eng
+3868	Olive Keelback	eng
+4177	Serpent d'eau à museau de chien	fra
+4177	Serpent d'eau à ventre blanc	fra
+4177	Serpiente acuática cabeza de perro	spa
+4177	New guinea bockadam	eng
+4177	Dog-faced Water Snake	eng
+4177	Bockadam snake	eng
+4177	Bockadam	eng
+4177	South asian bockadam	eng
+4209	Tamandua	fra
+4209	Tamandúa mexicano	spa
+4209	Tamandúa	spa
+4209	Oso mielero	spa
+4209	Oso melero	spa
+4209	Northern Tamandua	eng
+4209	Tamandua	eng
+4262	Pava culirroja	spa
+4262	Pava cojolita	spa
+4262	Grenedera	spa
+4262	Penelope à crête	fra
+4262	Crested Guan	eng
+4262	Purple Guan	eng
+4262	Purplish Guan	eng
+4262	Pénélope à ventre blanc	fra
+4262	Pénélope huppée	fra
+4262	Pénélope panachée	fra
+4277	Chardonneret élégant	fra
+4277	Jilguero europeo	spa
+4277	Jilguero	spa
+4277	Goldfinch	eng
+4277	European Goldfinch	eng
+4282	Mentawai palm civet	eng
+4282	Musang	eng
+4282	Civette palmiste hermaphrodite	fra
+4282	Common Palm Civet	eng
+4282	Asian Palm Civet	eng
+4282	Civeta de las palmeras común	spa
+4282	Civeta de palmera común	spa
+4282	musang	spa
+4357	Fishing Snake	eng
+4357	Common Scaled Water Snake	eng
+4357	Chequered Keelback	eng
+4357	Checkered keel-back	eng
+4357	Asiatic Water Snake	eng
+4357	Couleuvre à damier	fra
+4357	Serpiente asiática de agua	spa
+4357	Rice Paddy Snake	eng
+4357	Serpent aquatique caréné à damier	fra
+4357	Couleuvre aquatique	fra
+4357	Couleuvre d'eau asiatique	fra
+4357	Couleuvre pêcheuse	fra
+4524	Hoco faisán	spa
+4524	Great Curassow	eng
+4524	Pavón grande	spa
+4524	Hoco grande	spa
+4524	Mexican Curassow	eng
+4524	Pavón norteño	spa
+4524	Grand hocco	fra
+4524	Globose Curassow	eng
+4655	Masked Palm Civet	eng
+4655	Himalayan palm civet	eng
+4655	Gem-faced civet	eng
+4655	Civeta de las palmeras enmascarada	spa
+4655	Civette palmiste à masque	fra
+4655	Civeta de palmera enmascarada	spa
+4655	paguma	spa
+4693	Agouti	spa
+4693	Agoutí rojizo	spa
+4693	Agutí de América Central	spa
+4693	Agouti	eng
+4693	guatín colorado o rojizo	spa
+4693	guatusa	spa
+4693	Agouti ponctué	fra
+4693	Agouti	fra
+4693	Agutí centroamericano	spa
+4693	Central American Agouti	eng
+4985	Cervicapra	spa
+4985	Antílope negro indio	spa
+4985	Sasin	eng
+4985	Blackbuck	eng
+4985	Antilope cervicapre	fra
+4985	Cervicapre	fra
+5018	Yellow Blotched Sawback	eng
+5018	Yellow-blotched Map Turtle	eng
+5113	Yucatan rattlesnake	eng
+5113	South American rattlesnake	eng
+5113	Neotropical Rattlesnake	eng
+5113	Cascabel Rattlesnake	eng
+5113	Durisse	fra
+5113	Cascabel	eng
+5113	Cascabel	fra
+5113	Serpent à sonnette tropical	fra
+5113	Crotale durisse	fra
+5113	Cascabel	spa
+5113	Cascavelle	spa
+5113	Crotale des tropiques	fra
+5113	Cascavelle	fra
+5218	Coracine ornée	fra
+5218	Pájaro-paraguas amazónico	spa
+5218	Pájaros paraguas	spa
+5218	toropisco amazónico	spa
+5218	Paragüero ornado	spa
+5218	Ornate Umbrellabird	eng
+5218	Amazonian Umbrellabird	eng
+5251	Albert's Curassow	eng
+5251	Prince Albert's Curassow	eng
+5251	Blue-knobbed Curassow	eng
+5251	Hocco d’Albert	fra
+5251	Hocco piguiazul	spa
+5251	Hocco d'Albert	fra
+5251	Hocco à bec bleu	fra
+5251	Paují de pico azul	spa
+5251	pavón colombiano	spa
+5251	Pavón piquiazul	spa
+5251	Blue-billed Curassow	eng
+5264	Ouachita Map Turtle	eng
+5279	Arasarí caripardo	spa
+5279	Tucán tilingo	spa
+5279	Tucán-Tilingo verde	spa
+5279	pichí bandirrojo	spa
+5279	Chestnut-eared Aracari	eng
+5279	Arasarí castaño	spa
+5279	arasarí fajado	spa
+5279	Araçari à oreillons roux	fra
+5279	Aracari à oreillons roux	fra
+5279	Arasarí orejicastano	spa
+5310	Hoary Redpoll	eng
+5310	Arctic Redpoll	eng
+5310	Sizerin blanchâtre	fra
+5310	Pardillo Ártico	spa
+5312	Marmota de cola larga	spa
+5312	Marmote à longue queue	fra
+5312	Long-tailed Marmot	eng
+5347	Ménopome ou salamandre-alligator	fra
+5347	Salamandra gigante americana	spa
+5347	Hellbender	eng
+5368	Mexican Hairy Dwarf Porcupine	eng
+5368	Puercoespín enano peludo mexicano	spa
+5368	Mexican Tree Porcupine	eng
+5368	Porc-épic préhensile	fra
+5368	puercoespín mexicano arborícola	spa
+5686	Fulvous duck	eng
+5686	Fulvous whistling duck	eng
+5686	Fulvous Whistling-Duck	eng
+5686	Pato silbón común	spa
+5686	Pijiji canelo	spa
+5686	Suirirí leonado	spa
+5686	Dendrocygne fauve	fra
+5686	Suirirí bicolor	spa
+5686	Fulvous Tree-Duck	eng
+5686	Yaguaso colorado	spa
+5806	Salamandre d’Asie	fra
+5825	Long-wattled Umbrellabird	eng
+5825	Long-wattled umbrella bird	eng
+5825	Pájaro paraguas bigotudo	spa
+5825	Coracine casquée	fra
+5825	toropisco del Pacífico	spa
+5825	paragüero corbatudo	spa
+5825	Pájaro-paraguas longuipendulo	spa
+5825	Pájaro paraguas longipéndulo	spa
+5890	Bullfinch	eng
+5890	Eurasian Bullfinch	eng
+5890	Bouvreuil pivoine	fra
+5890	Camachuelo común	spa
+5891	Cagle's Map Turtle	eng
+5950	Pigeon rose	fra
+5950	Pink Pigeon	eng
+5950	Paloma de Mauricio	spa
+5950	Pigeon des mares	fra
+6000	Cabézon toucan	fra
+6000	Barbudo-tucán	spa
+6000	Cabezón tucán	spa
+6000	Caebézon toucan	fra
+6000	Toucan barbet	fra
+6000	Toucan Barbet	eng
+6048	Tayra	fra
+6048	Cabeza de mate	spa
+6048	Cabeza de viejo	spa
+6048	Ucati	spa
+6048	Tolumuco	spa
+6048	Tolomuco	spa
+6048	Amingo	spa
+6048	Greyheaded tayra	eng
+6048	Ulamá	spa
+6048	Tejón	spa
+6048	Manco	spa
+6048	Lepasil	spa
+6048	Tayra	eng
+6048	Hurón mayor	spa
+6048	Gato negro	spa
+6048	Gato cutarra	spa
+6048	Taira	spa
+6090	Brown palm civet	eng
+6090	Jerdon's Palm Civet	eng
+6090	Musang indio	spa
+6090	Civeta de palmera de Jerdon	spa
+6090	Civette palmiste de Jerdon	fra
+6235	Vipère de Russell	fra
+6235	Russell's Viper	eng
+6235	víbora de cadena	spa
+6235	serpiente de las tijeras	spa
+6235	Dabois	fra
+6235	Víbora de Russell	spa
+6268	Comadreja siberiana	spa
+6268	Belette de Sibérie	fra
+6268	Vison sibérien	fra
+6268	Siberian Weasel	eng
+6268	Comadreja de Siberia	spa
+6268	Kolinsky	eng
+6509	Texas Map Turtle	eng
+6586	Toucan à ventre rouge	fra
+6586	Tucán rojo y amarillo	spa
+6586	Green-billed toucan	eng
+6586	Red-breasted Toucan	eng
+6586	Tucán verde	spa
+6586	Toucan vert à poitrine rouge	fra
+6586	Tucán de pico verde	spa
+6586	Tucán bicolor	spa
+6811	Búfalo acuático	spa
+6811	Asiatic buffalo	eng
+6811	Indian buffalo	eng
+6811	Indian water buffalo	eng
+6811	arni	spa
+6811	Water buffalo	eng
+6811	Wild Asian buffalo	eng
+6811	Wild Water Buffalo	eng
+6811	Caraboa	spa
+6811	Búfalo arni	spa
+6811	Asian buffalo	eng
+6811	Wild Asiatic Buffalo	eng
+6811	Buffle de l'Inde	fra
+6811	Arni	fra
+6811	Buffle d'eau	fra
+6811	Buffle d'Asie	fra
+6814	Mangosta roja de la India	spa
+6814	Meloncillo rojo	spa
+6814	Mangouste de Smith	fra
+6814	Ruddy Mongoose	eng
+6973	Mangosta pequeña de la India	spa
+6973	Mangouste de Java	fra
+6973	Small Asian Mongoose	eng
+6973	Javan Mongoose	eng
+7122	Coendu espinoso	spa
+7122	Orange-spined Hairy Dwarf Porcupine	eng
+7122	Coendú misionero	spa
+7122	Coendou épineux	fra
+7122	Spiny Tree Porcupine	eng
+7122	Paraguay Hairy Dwarf Porcupine	eng
+7122	Paraguaian hairy dwarf porcupine	eng
+7168	Indian Brown Mongoose	eng
+7168	Mangouste à queue courte de l'Inde	fra
+7168	Brown mongoose	eng
+7168	Meloncillo pardo	spa
+7168	Mangosta colicorta oscura	spa
+7173	Marta india	spa
+7173	Martre de l'Inde du Sud	fra
+7173	Nilgiri Marten	eng
+7432	Aardwolf	eng
+7432	Lobo de tierra	spa
+7432	Protèle	fra
+7432	proteles	spa
+7506	Chachalaca norteña	spa
+7506	Chachalaca de los Llenos	spa
+7506	Plain Chachalaca	eng
+7506	Ortalide du Mexique	fra
+7506	Ortalide commune	fra
+7506	guacharaca del Golfo	spa
+7506	Mexican Chachalaca	eng
+7506	Common Chachalaca	eng
+7506	Ortalide chacamel	fra
+7506	Chachalaca	eng
+7752	Bengal Fox	eng
+7752	Indian fox	eng
+7752	zorro indio	spa
+7752	Zorro de Bengala	spa
+7752	Renard du Bengale	fra
+7924	serpiente coral centroamericana	spa
+7924	Micrure à bandes noires	fra
+7924	Black-banded Coral Snake	eng
+7924	Central American Coral Snake	eng
+7924	Serpent corail à bandes noires	fra
+7924	Coral negra	spa
+7925	carricero de Rodrigues	spa
+7925	Fauvette de l'ile de rodrigues	fra
+7925	Rousserolle de Rodriguez	fra
+7925	Carricero pico gordo	spa
+7925	Rodrigues Brush-Warbler	eng
+7925	Rodriguez brush-warbler	eng
+7925	Rodrigues Warbler	eng
+7972	Satyr Tragopan	eng
+7972	Tragopán sátiro	spa
+7972	Tragopan satyre	fra
+7972	Crimson Horned-Pheasant	eng
+7972	Indian Tragopan	eng
+8053	Martre à gorge jaune	fra
+8053	marta papigualda	spa
+8053	Marta de cuello amarillo	spa
+8053	Yellow-throated Marten	eng
+8113	Galápago chino de cuello estriado	spa
+8113	Émyde chinoise	fra
+8113	Chinese Stripe-necked Turtle	eng
+8423	Chinese pond turtle	eng
+8423	Chinese Three-keeled Pond Turtle	eng
+8423	Japanese coin turtle	eng
+8423	Reeves's Turtle	eng
+8423	Reeves' three-keeled pond turtle	eng
+8423	Galápago chino palustre	spa
+8423	Reeves' turtle	eng
+8423	Chinémyde de Reeves	fra
+8423	Émyde chinoise de Reeves	fra
+8423	Big-headed Pond Turtle	eng
+8521	Black-knobbed sawback	eng
+8521	Black-knobbed Map Turtle	eng
+8686	Salamandre algire	fra
+8686	Salamandra norteafricana	spa
+8686	North african fire salamander	eng
+8845	Oriental civet	eng
+8845	Petite civette de l'Inde	fra
+8845	Civeta india pequeña	spa
+8845	Civette indienne	fra
+8845	Small Indian Civet	eng
+8845	Pequeña civeta de la India	spa
+8875	Micrure distancé	fra
+8875	Cantil coral	spa
+8875	Serpent corail	fra
+8875	Coral gargantilla	spa
+8875	Atlantic Coral Snake	eng
+8875	Variable Coral Snake	eng
+8875	Coral anillado	spa
+8897	Stripe-necked Mongoose	eng
+8897	Mangosta de nuca rayada	spa
+8897	Meloncillo indio	spa
+8897	Striped-necked mongoose	eng
+8897	Mangouste à cou rayé	fra
+8987	Paca	spa
+8987	Agouti	spa
+8987	Tepezquintle	spa
+8987	Paca común	spa
+8987	Paca	fra
+8987	Lowland paca	eng
+8987	Agouti	eng
+8987	Agouti	fra
+8987	Paca	eng
+8987	Spotted Paca	eng
+9049	Ringed Sawback	eng
+9049	Ringed Map Turtle	eng
+9146	Tatou gumnure	fra
+9146	Greater Naked-tailed Armadillo	eng
+9146	Tatú de rabo molle	spa
+9146	Tatú de rabo mol	spa
+9146	Tatú cabasú	spa
+9146	Cabasu de orejas largas	spa
+9146	Armadillo cabasú	spa
+9146	Tatou à queue nue	fra
+9172	Northern Coati	eng
+9172	White-nosed Coati	eng
+9172	Coati	fra
+9172	Coati à museau blanc	fra
+9172	Coati brun	fra
+9172	Cozumbo	spa
+9172	Coatimundi	eng
+9172	Coatí pizote	spa
+9172	Pizote	spa
+9172	Coati	spa
+9179	Walrus	eng
+9179	Morse	fra
+9179	Morsa	spa
+9244	Pepino de mar	spa
+9244	Holothurie géante	fra
+9244	Brown Sea Cucumber	eng
+9286	Arasarí banana	spa
+9286	Saffron Toucanet	eng
+9286	Toucan de Baillon	fra
+9286	tucán banana	spa
+9286	Tucán amarillo	spa
+9288	Common Redpoll	eng
+9288	Redpoll	eng
+9288	Pardillo norteño	spa
+9288	Pardillo Sizerín	spa
+9288	Sizerin flammé	fra
+9329	Marmota del Himalaya	spa
+9329	Karakoram marmot	eng
+9329	Himalayan Marmot	eng
+9329	Marmote de l'Himalaya	fra
+9412	Chacal doré	fra
+9412	Chacal	spa
+9412	Chacal dorado	spa
+9412	Common Jackal	eng
+9412	Chacal commun	fra
+9412	Eurasian golden jackal	eng
+9412	Golden Jackal	eng
+9428	Wattled Curassow	eng
+9428	Hoco barbado	spa
+9428	Yarrell's Curassow	eng
+9428	Hoco à caroncule	fra
+9428	Hocco globuleux	fra
+9428	Pavón carunculado	spa
+9466	Anderson's Newt	eng
+9466	Anderson's crocodile newt	eng
+9466	Echinotriton andersoni	fra
+9466	Triton	fra
+9466	Tritón de Anderson	spa
+9466	Tritón cocodrilo de Anderson	spa
+9466	Anderson's salamander	eng
+9607	Camachuelo Carminoso	spa
+9607	Scarlet Rosefinch	eng
+9607	Common Rosefinch	eng
+9607	Roselin cramoisi	fra
+9613	Blaireau à miel	fra
+9613	Tejón abejero del Cabo	spa
+9613	Tejón melívoro	spa
+9613	Ratel	spa
+9613	Honey Badger	eng
+9613	Ratel	eng
+9613	Ratel	fra
+9613	tejón mielero	spa
+9831	antílope cuadricorne	spa
+9831	Antalope de cuatro cuernos	spa
+9831	Antilope à quatre cornes	fra
+9831	Tétracère	fra
+9831	chusinga	spa
+9831	Chousingha	eng
+9831	Four-horned Antelope	eng
+9831	Antilope de cuatrocuernos	spa
+10012	Kinkajou	eng
+10012	Cuchumbi	spa
+10012	Martucha	spa
+10012	Cusu	spa
+10012	Cusumbi	spa
+10012	Chosna	spa
+10012	Mono michi	spa
+10012	Micoleón	spa
+10012	Mico de noche	spa
+10012	Godoy	spa
+10012	Potos	fra
+10012	kinkajú	spa
+10012	Martilla	spa
+10012	Marta	spa
+10029	Eurasian Linnet	eng
+10029	Pardillo común	spa
+10029	Linotte mélodieuse	fra
+10029	Common linnet	eng
+10029	Linnet	eng
+10223	Cibeta africana	spa
+10223	Civette	fra
+10223	Civette africaine	fra
+10223	Civette d'Afrique	fra
+10223	African Civet	eng
+10223	Civeta africana	spa
+10223	Civeta	spa
+10235	Northern Sticky-toed Gecko	eng
+10235	Duvaucel's Gecko	eng
+10277	Indian Grey Mongoose	eng
+10277	Mangouste grise de l'Inde	fra
+10277	Mangosta gris de la India	spa
+10277	Meloncillo gris	spa
+10277	Mangouste d'Edwards	fra
+10284	Verdecillo	spa
+10284	Serin	eng
+10284	Serin cini	fra
+10284	European Serin	eng
+10284	Serín verdecillo	spa
+10356	Bearcat	eng
+10356	Binturong	spa
+10356	Binturong	fra
+10356	Binturong	eng
+10359	Pauxi pierre	fra
+10359	Northern Helmeted Curassow	eng
+10359	Hocco à pierre	fra
+10359	Paují de yelmo	spa
+10359	Paují copete de piedra	spa
+10359	Hoco de casco	spa
+10359	Helmeted Curassow	eng
+10393	Coq de Bois	fra
+10393	Mascarene paradise flycatcher	eng
+10393	Monarca del paraíso enmascarado	spa
+10393	Mascarene Paradise-Flycatcher	eng
+10393	monarca colilargo de las Mascareñas	spa
+10393	Gobe-mouches	fra
+10393	Tchitrec des Mascareignes	fra
+10450	Tucancito de pico maculado	spa
+10450	Tucancito picomaculado	spa
+10450	Tucán de pico acanalado	spa
+10450	Tucanete piquimaculado	spa
+10450	arasarí chico	spa
+10450	Spot-billed Toucanet	eng
+10450	Toucanet à bec tacheté	fra
+10490	Northern map turtle	eng
+10490	Common Map Turtle	eng
+10553	Suirirí piquirrojo	spa
+10553	Red-billed Whistling-Duck	eng
+10553	Dendrocygne à bec rouge	fra
+10553	Guirirí	spa
+10553	Pato silbón ventrinegro	spa
+10553	Pijiji aliblanco	spa
+10553	Black-bellied whistling duck	eng
+10553	Dendrocygne à ventre noir	fra
+10553	Black-bellied Whistling-Duck	eng
+10694	Common Crossbill	eng
+10694	Crossbill	eng
+10694	Piquituerto común	spa
+10694	Bec-croisé  des sapins	fra
+10694	Bec-croisé des sapins	fra
+10694	Red Crossbill	eng
+10866	Altai weasel	eng
+10866	Comadreja altaica	spa
+10866	Pale weasel	eng
+10866	Mountain Weasel	eng
+10866	Belette des Alpes	fra
+10866	Comadreja de montaña	spa
+10866	Alpine Weasel	eng
+10866	Belette de montagne	fra
+10866	Belette alpine	fra
+10869	Wide mouth toad	eng
+10869	Helmeted water toad	eng
+10869	Chilean helmeted water toad	eng
+10869	Gay's frog	eng
+10869	Chilean toad	eng
+10869	Calyptocephalella gayi	fra
+10869	Rana chilena	spa
+10869	Rana de casco chilena	spa
+10869	Rana grande chilena	spa
+10927	Tarin des aulnes	fra
+10927	Eurasian Siskin	eng
+10927	Siskin	eng
+10927	Lúgano	spa
+10927	Jilguero lúgano	spa
+11150	Mangosta cangrejera	spa
+11150	Crab-eating Mongoose	eng
+11150	Meloncillo cangrejero	spa
+11150	Mangouste crabière	fra
+11224	Falso vampiro del Uruguay	spa
+11224	Murciélago de estrias blancas	spa
+11224	Murciélago de estrías blancas	spa
+11224	falso vampiro listado	spa
+11224	Sténoderme pseudo-vampire	fra
+11224	White-lined Bat	eng
+11224	White-lined Broad-nosed Bat	eng
+11288	Civeta india grande	spa
+11288	Gran civeta de la India	spa
+11288	Large Indian Civet	eng
+11288	Grande civette de l'Inde	fra
+12172	Stoat	eng
+12172	Hermine sous-espèce ferhanae	fra
+12172	Armiño indio	spa
+12174	Zorro común	spa
+12174	Red fox	eng
+12174	Renard commun sous-espèce pusilla	fra
+12177	Red fox	eng
+12177	Renard commun sous-espèce montana	fra
+12177	Zorro común	spa
+12195	Small Indian Mongoose	eng
+12195	Meloncillo de manchas doradas	spa
+12195	Mangosta de manchas doradas	spa
+12195	Petite mangouste indienne	fra
+12217	cabro de monte	spa
+12217	Ciervo mazama	spa
+12217	Middle American Red Brocket	eng
+12217	Guatemalan Red Brocket	eng
+12217	Central American red brocket	eng
+12217	Cerf centraméricain auburn	fra
+12245	Zorro común	spa
+12245	Red Fox	eng
+12245	Renard commun sous-espèce griffithi	fra
+12253	South Brazilian Coati	eng
+12253	Coati roux	fra
+12253	Coatí rojo	spa
+12265	Fouine	fra
+12265	Stone marten	eng
+12265	Central Asian Stone Marten	eng
+12265	Garduña intermedia	spa
+12327	Ciervo de Berbería	spa
+12327	Barbary Stag	eng
+12327	Barbary Red Deer	eng
+12327	Cerf de Barbarie	fra
+12327	Atlas Deer	eng
+12327	Ciervo de la Berberia	spa
+12327	Barbary Deer	eng
+12333	Guatemalan White-tailed Deer	eng
+12333	Ciervo de cola blanca	spa
+12333	Cerf à queue blanche du Guatemala	fra
+12333	venado de cola blanca	spa
+13888	Coco de mar	spa
+13888	Coco de Mer	fra
+13888	Coco de Mer	eng
+13888	Double Coconut	eng
+13888	Double coconut palm	eng
+18210	Korean Nut Pine	eng
+18210	Korean pine	eng
+18543	désert rose	fra
+18543	desert rose	eng
+18543	Spiny Greenstem	eng
+21243	Amapola del Himalaya	spa
+21243	Coquelicot de l'Himalaya	fra
+21243	Himalayan Poppy	eng
+21337	Tetracentron sinense	fra
+27490	Pine	eng
+27490	Pino amarillo	spa
+27490	Yellow Wood	eng
+27490	Black Pine	eng
+27490	Podocarpe à feuilles de laurier rose	fra
+27490	Brown Pine	eng
+29641	Magnolia	spa
+29641	Safan	eng
+29641	Magnolia	fra
+29641	Magnolia	eng
+29641	Safan	fra
+36391	Coral roatanense	spa
+36391	Roatan coral snake	eng
+36391	Central American Coral Snake	eng
+36391	Black-banded Coral Snake	eng
+36391	Coral de la isle de roatán	spa
+36391	Micrure à bandes noires	fra
+36391	Serpent corail à bandes noires	fra
+65566	Asiatic ibex	eng
+65566	Íbice siberiano	spa
+65566	Himalayan ibex	eng
+65566	Siberian Ibex	eng
+65566	Ibex de Sibérie	fra
+65567	Chinkara	eng
+65567	Indian Gazelle	eng
+65567	Chinkara	spa
+65567	gacela de la India	spa
+65567	Chinkara	fra
+65567	Gazelle de l'inde	fra
+65568	Common Peafowl	eng
+65568	Indian Peafowl	eng
+65568	Pavo real común	spa
+65568	Peafowl	eng
+65568	Paon bleu	fra
+65569	Roble de Mongolia	spa
+65569	Mongolian oak	eng
+65569	Chêne de Mongolie	fra
+65574	Nilgai	eng
+65574	Nilgau	fra
+65574	Nilgaut	fra
+65574	Nilgo	spa
+65574	toro azul	spa
+65574	Bluebuck	eng
+65582	Cabra salvaje de Sind	spa
+65582	Wild Goat	eng
+65582	Chèvre sauvage	fra
+65584	Blue sheep	eng
+65584	Bharal	eng
+65584	Baral	spa
+65584	cabra azul del Himalaya	spa
+65584	carnero azul	spa
+65584	Bharal	fra
+65601	Koklass Pheasant	eng
+65601	Faisán koklas	spa
+65601	Eulophe koklass	fra
+65604	Frêne de Mandchourie	fra
+65604	Manchurian ash	eng
+65604	Fresno de Manchuria	spa
+65718	Gold-striped Gecko	eng
+65718	Goldstripe Gecko	eng
+65718	Golden Sticky-toed Gecko	eng
+65720	Gray's Sticky-toed Gecko	eng
+65720	Granulated Gecko	eng
+65720	Forest Gecko	eng
+65721	Black-eyed Gecko	eng
+65721	Whitaker's Sticky-toed Gecko	eng
+65722	Common Gecko	eng
+65722	Spotted Sticky-toed Gecko	eng
+65723	Cloudy Gecko	eng
+65724	Pacific Gecko	eng
+65724	Pacific Sticky-toed Gecko	eng
+65725	Pacific Gecko	eng
+65725	Pacific Sticky-toed Gecko	eng
+65726	Stewart's Sticky-toed Gecko	eng
+65726	Harlequin Gecko	eng
+65727	Stephen's sticky-toed gecko	eng
+65727	Striped Gecko	eng
+65727	Stephen's island gecko	eng
+65727	Stephens's Island Gecko	eng
+65727	Stephens's Sticky-toed Gecko	eng
+65781	Couleuvre à damier	fra
+65781	Couleuvre pêcheuse	fra
+65781	Couleuvre aquatique	fra
+65781	Serpent aquatique caréné à damier	fra
+65781	Couleuvre d'eau asiatique	fra
+65781	Asiatic Water Snake	eng
+65781	Fishing Snake	eng
+65781	Common Scaled Water Snake	eng
+65781	Chequered Keelback	eng
+65781	Rice Paddy Snake	eng
+65782	Couleuvre d'eau asiatique	fra
+65782	Couleuvre aquatique	fra
+65782	Serpent aquatique caréné à damier	fra
+65782	Couleuvre pêcheuse	fra
+65782	Fishing Snake	eng
+65782	Rice Paddy Snake	eng
+65782	Couleuvre à damier	fra
+65782	Common Scaled Water Snake	eng
+65782	Chequered Keelback	eng
+65782	Asiatic Water Snake	eng
+68432	Korero gecko	eng
+68432	Large Otago gecko	eng
+68432	Otago-Southland gecko	eng
+68433	Matapia gecko	eng
+68434	Kawarau gecko	eng
+68434	Cromwell gecko	eng
+68435	Pygmy gecko	eng
+68436	Poor Knights gecko	eng
+68437	Kaikouras gecko	eng
+68438	Schist gecko	eng
+68438	Central Otago gecko	eng
+68439	Minimac gecko	eng
+68439	Marlborough mini gecko	eng
+68440	Three Kings gecko	eng
+68441	Southern Alps gecko	eng
+68442	North Cape Pacific gecko	eng
+68442	Te Paki gecko	eng
+68443	Southern mini gecko	eng
+68443	Short-toed gecko	eng
+68444	Mount Arthur gecko	eng
+68444	Kahurangi gecko	eng
+68445	Mokohinaus gecko	eng
+68445	Mokohinau gecko	eng
+68476	Thorny river stingray	eng
+68476	Raya	spa
+68476	Raie d’eau douce	fra
+68477	Magdalena freshwater stingray	eng
+68477	Raie d’eau douce	fra
+68477	Raya del magdalena	spa
+68477	Magdalena river stingray	eng
+68477	Raya del río Magdalena	spa
+68477	Raya de río	spa
+68478	Ocellate river stingray	eng
+68478	Raie à aiguillon commune	fra
+68478	Raya motoro	spa
+68479	Smooth back river stingray	eng
+68479	Raie d’eau douce	fra
+68479	Raya común	spa
+68480	Raya guacamaya	spa
+68480	Raya gucamaya	spa
+68480	Raya Guyanesa	spa
+68480	Raya tigrita	spa
+68480	Pastenague de Schroder	fra
+68480	Rosette river stingray	eng
+68480	Tiger ray	eng
+68481	Raie d’eau douce	fra
+68481	Arraia	eng
+68481	Raspy river stingray	eng
+68481	Raya escobina	spa
+68482	Raya de rio	spa
+68482	Maracaibo river stingray	eng
+68482	Raya	spa
+68482	Raie d’eau douce	fra
+68482	Raya de Maracaibo	spa
+68483	Raie d’eau douce	fra
+68483	Raya	spa
+68483	Raya manta	spa
+68483	Ceja ray	eng
+68483	Manzana ray	eng
+68483	Discus ray	eng
+68484	Giant freshwater stingray	eng
+68485	Reticulated freshwater stingray	eng
+68485	Raya pititi	spa
+68485	Raya reticulada	spa
+68485	Largespot river stingray	eng
+68487	Autobo	fra
+68487	Raie d'eau douce	fra
+68487	Raie rivière	fra
+68487	Xouba	fra
+68487	Raya barrosa	spa
+68487	Xoub	fra
+68487	Raya parada	spa
+68487	Tounaya	fra
+68487	Saipali	fra
+68487	Tiouboula	fra
+68487	Tiouba	fra
+68487	Ibochinado	fra
+68487	Chipali	fra
+68487	Sipari	fra
+68487	Arraia	eng
+68487	Liba spari	eng
+68487	Yawaiwiy	fra
+68487	Porcupine river stingray	eng
+68487	Tjoeboela	eng
+68487	Spar	eng
+68489	Red-blotched river stingray	eng
+98190	Lagarto de mejilla negra	spa
+98190	Black-lipped lizard	eng
+98190	Agama à lèvres noires	fra
+98190	Black-cheek Lizard	eng
+98191	Pethiyagoda’s Crestless Lizard	eng
+98191	Lagarto sin cresta de Pethiyagoda	spa
+98518	Geco diminuto de Guantánamo	spa
+98518	Guantanamo least gecko	eng
+98519	Geco de ocelos de Baracoa	spa
+98519	Baracoan eyespot sphaero	eng
+98521	Mantanzas least gecko	eng
+98521	Geco diminuto de Mantanzas	spa
+98522	Juventud least gecko	eng
+98522	Geco diminuto de Juventud	spa
+98523	Pepper sphaero	eng
+98523	Geco pimienta	spa
+98524	Geco diminuto de Ruibal	spa
+98524	Ruibal’s least gecko	eng
+98526	Geco diminuto de Barbour	spa
+98526	Barbour’s least gecko	eng
+99500	Kuroiwa's Eyelid Gecko	eng
+99501	Japanese cave gecko	eng
+99501	Spotted ground gecko	eng
+99501	Geco terrestre de manchas	spa
+99502	Sengoku’s gecko	eng
+99502	Geco de Sengoku	spa
+99504	Toyama's Ground Gecko	eng
+99504	Iheyajima Leopard Gecko	eng
+99504	Geco leopardo de Iheyajima	spa
+99505	Yamashina’s Leopard Gecko	eng
+99505	Geco leopardo de Yamashina	spa
+99506	Galéote du Sri Lanka	fra
+99506	Painted-lip Lizard	eng
+99506	Lagarto de labio pintado	spa
+99507	Lagarto silbador de Desilva	spa
+99507	Desilvas' forest lizard	eng
+99507	Desilvas’ whistling lizard	eng
+99508	Lagarto sin cresta	spa
+99508	Spineless forest lizard	eng
+99508	Crestless Lizard	eng
+99509	Lagarto silbador	spa
+99509	Whistling Lizard	eng
+99509	Forest lizard	eng
+99510	Lagarto silbador de Manamendra-Arachchi	spa
+99510	Manamendra-Arachchi’s Whistling Lizard	eng
+99544	Cojugada común	spa
+99544	Crested Lark	eng
+99544	Cochevis huppé	fra
+99545	Wood Lark	eng
+99545	Woodlark	eng
+99545	Alondra totovía	spa
+99545	Alouette lulu	fra
+99546	Alouette calandre	fra
+99546	Calandria común	spa
+99546	Calandra Lark	eng
+99547	Bruant jaune	fra
+99547	Yellowhammer	eng
+99547	Escribano cerillo	spa
+99547	Eurasian Yellow Bunting	eng
+99548	Ortolan Bunting	eng
+99548	Bruant ortolan	fra
+99548	Escribano hortelano	spa
+99550	European Robin	eng
+99550	Petirrojo europeo	spa
+99550	Rougegorge familier	fra
+99552	Red-breasted Flycatcher	eng
+99552	Gobemouche nain	fra
+99552	Papamoscas papirrojo	spa
+99553	Bluethroat	eng
+99553	Ruiseñor pechiazul	spa
+99553	Gorgebleue à miroir	fra
+99554	Rossignol progné	fra
+99554	Thrush Nightingale	eng
+99554	Ruiseñor Ruso	spa
+99555	Common Nightingale	eng
+99555	Ruiseñor común	spa
+99555	Rossignol philomèle	fra
+99557	Monticole de roche	fra
+99557	Common Rock Thrush	eng
+99557	Roquero Rojo	spa
+99557	Rufous-tailed rock-thrush	eng
+99558	Eurasian Blackbird	eng
+99558	Mirlo Común	spa
+99558	Merle noir	fra
+99559	Zorzal común	spa
+99559	Grive musicienne	fra
+99559	Song Thrush	eng
+99560	Loriot d'Europe	fra
+99560	Eurasian Golden Oriole	eng
+99560	Oropéndola euroasiática	spa
+99561	Eurasian Wren	eng
+99561	Troglodyte mignon	fra
+99561	Chochín euroasiático	spa
+99570	Curruca capitorada	spa
+99570	Fauvette à tête noire	fra
+99570	Eurasian Blackcap	eng
+99571	Curruca Mosquitera	spa
+99571	Garden Warbler	eng
+99571	Fauvette des jardins	fra
+99572	Curruca Zarcerilla	spa
+99572	Fauvette babillarde	fra
+99572	Lesser Whitethroat	eng
+99575	Zarcero Icterino	spa
+99575	Icterine Warbler	eng
+99575	Hypolaïs ictérine	fra
+99576	Mésange noire	fra
+99576	Coal Tit	eng
+99576	Carbonero garrapinos	spa
+99577	Fauvette épervière	fra
+99577	Curruca gavilana	spa
+99577	Barred Warbler	eng
+99579	Alondra común	spa
+99579	Alouette des champs	fra
+99579	Eurasian Skylark	eng
+100064	Champion's leaf-tailed gecko	eng
+100066	Mt Blackwood broad-tailed gecko	eng
+100067	Oakview leaf-tailed gecko	eng
+100070	Pinnacles leaf-tailed gecko	eng
+100071	Broad-tailed Gecko	eng
+100072	Northern leaf-tailed gecko	eng
+100073	Cape Melville leaf-tailed gecko	eng
+100074	Kate's leaf-tailed gecko	eng
+100075	Moritz's leaf-tailed gecko	eng
+100076	Rough-throated leaf-tailed gecko	eng
+100077	Southern leaf-tailed gecko	eng
+100078	Granite belt leaf-tailed gecko	eng
+100079	Common thick-tailed gecko	eng
+100080	Pilbara barking gecko	eng
+100081	Granite belt thick-tailed gecko	eng
+100082	Goldfields spiny-tailed gecko	eng
+100083	Northern spiny-tailed gecko	eng
+100084	Congoo gecko	eng
+100085	Jewelled gecko	eng
+100086	Arnhem phasmid gecko	eng
+100087	Southern spiny-tailed gecko	eng
+100088	Southern phasmid gecko	eng
+100089	Kristin's spiny-tailed gecko	eng
+100090	McMillan's striped gecko	eng
+100091	Robust striped gecko	eng
+100092	Exmouth spiny-tailed gecko	eng
+100093	Robinson's striped gecko	eng
+100095	Western spiny-tailed gecko	eng
+100096	Northern phasmid gecko	eng
+100097	Golden-tailed gecko	eng
+100098	Golden-eyed gecko	eng
+100099	Western-shield spiny-tailed gecko	eng
+100102	Cunningham's Skink	eng
+100103	Western Pilbara spiny-tailed skink	eng
+100106	Central pygmy spiny-tailed skink	eng
+100107	Eastern Pilbara spiny-tailed skink	eng
+100108	Goldfields crevice skink	eng
+100109	Hosmer's Spiny-tailed Skink	eng
+100110	King's skink	eng
+100111	Eastern crevice skink	eng
+100112	South-western crevice skink	eng
+100113	Pilbara crevice skink	eng
+100114	Bight crevice skink	eng
+100116	Yakka skink	eng
+100117	Black rock skink	eng
+100118	Gidgee skink	eng
+100119	Tree skink	eng
+100122	Clipperton Angelfish	eng
+100124	Centralian bluetongue	eng
+100126	Blotched bluetongue	eng
+100127	Western bluetongue	eng
+100128	Shingleback lizard	eng
+100134	Western heath dragon	eng
+100135	Butler's dragon	eng
+100136	Ring-tailed dragon	eng
+100137	Chapman's dragon	eng
+100138	Black-collared dragon	eng
+100139	Crested dragon	eng
+100140	Tawny dragon	eng
+100141	Long-tailed sand dragon	eng
+100142	Peninsula dragon	eng
+100143	Mallee military dragon	eng
+100144	Gibber dragon	eng
+100145	Graaf's ring-tailed dragon	eng
+100146	Laverton ring-tailed dragon	eng
+100147	Central military dragon	eng
+100148	Spotted military dragon	eng
+100149	Lake Eyre dragon	eng
+100150	McKenzie's dragon	eng
+100151	Barrier range dragon	eng
+100152	Swift dragon	eng
+100153	Lake Disappointment dragon	eng
+100154	Central netted dragon	eng
+100155	Ornate dragon	eng
+100156	North-western heath dragon	eng
+100157	Painted dragon	eng
+100158	Western netted dragon	eng
+100159	Rufus sand dragon	eng
+100160	Rusty dragon	eng
+100161	Claypan dragon	eng
+100162	Lozenge-marked dragon	eng
+100163	Slater's ring-tailed dragon	eng
+100165	Ochre dragon	eng
+100166	Red-barred dragon	eng
+100167	Yinnietharra rock dragon	eng
+100168	Water dragon	eng
+100169	Claypan earless dragon	eng
+100170	Centralian earless dragon	eng
+100171	Pebble dragon	eng
+100172	Condamine earless dragon	eng
+100173	Hamersley pebble-mimic dragon	eng
+100174	Harlequin earless dragon	eng
+100175	Fortescue pebble-mimic dragon	eng
+100176	Gascoyne pebble-mimic dragon	eng
+100177	Nullarbor earless dragon	eng
+100178	Smooth-snouted earless dragon	eng
+100179	Lined earless dragon	eng
+100180	Savannah earless dragon	eng
+100181	Bathurst grassland earless dragon	eng
+100182	Monaro grassland earless dragon	eng
+100183	Five-lined earless dragon	eng
+100185	Grassland earless dragon	eng
+100186	Goldfields pebble-mimic dragon	eng
+100187	Tennant Creek pebble dragon	eng
+100188	Eyrean earless dragon	eng
+100189	Gawler earless dragon	eng
+100190	Even-scaled earless dragon	eng
+100191	Roma earless dragon	eng
+100192	Chameleon gecko	eng
+100193	Mcllwraith leaf-tailed gecko	eng
+100194	Centralian knob-tail gecko	eng
+100196	Northern banded knob-tailed gecko	eng
+100331	Matoutou falaise	fra
+100331	Antilles pinktoe tarantula	eng
+100665	Negrito	spa
+100665	Cuban Bullfinch	eng
+100666	Cuban Grassquit	eng
+100666	Tomeguín del Pinar	spa
+100672	Fine-leaved Candle Bush	eng
+100673	Dwarf Candle Bush	eng
+100677	Pygmy Porkbush	eng
+101305	Small Réunion swallowtail	eng
+102991	Palestine viper	eng
+103131	White Coral	eng
+103132	Angelskin Coral	eng
+103132	Formosa Pink Coral	eng
+103132	Pink Coral	eng
+104643	Giant bronze gecko	eng
+104998	Atlantic lizard	eng
+104998	Lagarto Atlántico	spa
+104999	Lagarto gigante de La Gomera	spa
+104999	La Gomera giant lizard	eng
+105000	Lagarto de Lehrs	spa
+105000	Boettger's Lizard	eng
+105001	Gallot's lizard	eng
+105001	Lagarto tizón de Tenerife	spa
+105002	Canarian spotted lizard	eng
+105002	Lagarto canario moteado	spa
+105003	Gran Canaria giant lizard	eng
+105003	Lagarto gigante de Gran Canaria	spa
+105344	Arraia	eng
+105344	Raie d’eau douce	fra
+105344	Raspy river stingray	eng
+105345	Arraia	eng
+105345	Raspy river stingray	eng
+105345	Raie d’eau douce	fra
+105346	Arraia	eng
+105346	Raspy river stingray	eng
+105346	Raie d’eau douce	fra

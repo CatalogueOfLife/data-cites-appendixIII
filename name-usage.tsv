@@ -1,29 +1,1081 @@
-ID	parentID	basionymID	status	scientificName	authorship	rank	genus	specificEpithet	infraspecificEpithet	referenceID	publishedInPage	code	nameStatus	originalSpelling	gender	genderAgreement	extinct	environment	link	remarks
-1			accepted	Plantae		kingdom						botanical								
-2	1		synonym	Viridae		kingdom						botanical			
-10	1		accepted	Asteraceae		family						botanical								
-11	10		synonym	Compositae		family						botanical								
-20	10		accepted	Cichorioideae		subfamily						botanical								
-30	20		accepted	Cichorieae		tribe						botanical								
-31	20		accepted	Gundelieae		tribe						botanical								
-100	20		accepted	Platycarpha		genus						botanical								
-101	30		accepted	Crepis	L.	genus						botanical								
-102	30		accepted	Leontodon		genus						botanical								
-110	31		accepted	Gundelia	L.	genus						botanical								
-1000	100		accepted	Platycarpha glomerata	(Thunberg) A. P. de Candolle	species	Platycarpha	glomerata				botanical								
-1001	101		accepted	Crepis bakeri	Greene	species	Crepis	bakeri		greene1895	73	botanical							https://beta.ipni.org/n/69325-2	
-1002	101		accepted	Crepis occidentalis	Nutt.	species	Crepis	occidentalis				botanical								
-1005	102		accepted	Leontodon anomalus		species	Leontodon	anomalus				botanical								
-1006	102		accepted	Leontodon taraxacoides	(Vill.) Mérat	species	Leontodon	taraxacoides				botanical								
-1006-s1	1006		synonym	Leontodon leysseri		species	Leontodon	leysseri				botanical								
-1006-s2	1006		synonym	Leontodon saxatilis		species	Leontodon	saxatilis				botanical								
-1006-s3	1006		synonym	Leonida taraxacoida	Vill.	species	Leonida	taraxacoida				botanical								
-1010	110		accepted	Gundelia rosea	L.	species	Gundelia	rosea				botanical								
-1011	110		accepted	Gundelia tournefortii	L.	species	Gundelia	tournefortii				botanical								
-1001a	1001		accepted	Crepis bakeri subsp. bakeri		subspecies	Crepis	bakeri	bakeri			botanical								
-1001b	1001		accepted	Crepis bakeri subsp. cusickii	(Eastw.) Babc. & Stebbins	subspecies	Crepis	bakeri	cusickii			botanical								
-1001c	1001		accepted	Crepis bakeri subsp. idahoensis	Babc. & Stebbins	subspecies	Crepis	bakeri	idahoensis			botanical								
-fake	1		accepted	Paulownia × tomentosa subsp. tella f. pasta	(Carl & Ruth) Frankenstein ex Semmelrogge	forma				frank	87	botanical	conserved						https://herbaria.plants.ox.ac.uk/bol/plants400/profiles/OP/Paulownia	Unclear name origin
-hybrid	1		accepted	Quercus robur x Q. macrocarpa		species						botanical	LEGITIMATE						http://www.heritageseedlings.com/page_608_40/quercus-heritage-q.-robur-x-q.-macrocarpa-clemons	commercial seeds
-virus	110		accepted	Acanthocystis turfacea chlorella virus 1								virus								
-cult	110		accepted	Clematis 'Sapphire Indigo'		species													http://plants.thegrowingplace.com/12120014/Plant/6164/Sapphire_Indigo_Clematis/	
+File	ID	parentID	status	scientificName	authorship	rank	link
+NameUsage_cites3.csv	100064	x33	accepted	Phyllurus championae	Couper, Schneider, Hoskin & Covacevich, 2000	species	https://www.speciesplus.net/species#/taxon_concepts/100064/legal
+NameUsage_cites3.csv	100065	x33	accepted	Phyllurus gulbaru	Hoskin, Couper & Schneider, 2003	species	https://www.speciesplus.net/species#/taxon_concepts/100065/legal
+NameUsage_cites3.csv	100066	x33	accepted	Phyllurus isis	Couper, Covacevich & Moritz, 1993	species	https://www.speciesplus.net/species#/taxon_concepts/100066/legal
+NameUsage_cites3.csv	100067	x33	accepted	Phyllurus kabikabi	Couper, Hamley & Hoskin, 2008	species	https://www.speciesplus.net/species#/taxon_concepts/100067/legal
+NameUsage_cites3.csv	100068	x33	accepted	Phyllurus nepthys	Couper, Covacevich & Moritz, 1993	species	https://www.speciesplus.net/species#/taxon_concepts/100068/legal
+NameUsage_cites3.csv	100069	x33	accepted	Phyllurus ossa	Couper, Covacevich & Moritz, 1993	species	https://www.speciesplus.net/species#/taxon_concepts/100069/legal
+NameUsage_cites3.csv	100070	x33	accepted	Phyllurus pinnaclensis	Hoskin, Bertola & Higgie, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100070/legal
+NameUsage_cites3.csv	100071	x33	accepted	Phyllurus platurus	Shaw, 1790	species	https://www.speciesplus.net/species#/taxon_concepts/100071/legal
+NameUsage_cites3.csv	100072	x6S	accepted	Saltuarius cornutus	Ogilby, 1892	species	https://www.speciesplus.net/species#/taxon_concepts/100072/legal
+NameUsage_cites3.csv	100073	x6S	accepted	Saltuarius eximius	Hoskin & Couper, 2013	species	https://www.speciesplus.net/species#/taxon_concepts/100073/legal
+NameUsage_cites3.csv	100074	x6S	accepted	Saltuarius kateae	Couper, Sadlier, Shea & Worthington-Wilmer, 2008	species	https://www.speciesplus.net/species#/taxon_concepts/100074/legal
+NameUsage_cites3.csv	100075	x6S	accepted	Saltuarius moritzi	Couper, Sadlier, Shea & Worthington-Wilmer, 2008	species	https://www.speciesplus.net/species#/taxon_concepts/100075/legal
+NameUsage_cites3.csv	100076	x6S	accepted	Saltuarius salebrosus	Covacevich, 1975	species	https://www.speciesplus.net/species#/taxon_concepts/100076/legal
+NameUsage_cites3.csv	100077	x6S	accepted	Saltuarius swaini	Wells & Wellington, 1985	species	https://www.speciesplus.net/species#/taxon_concepts/100077/legal
+NameUsage_cites3.csv	100078	x6S	accepted	Saltuarius wyberba	Couper, Schneider & Covacevich, 1997	species	https://www.speciesplus.net/species#/taxon_concepts/100078/legal
+NameUsage_cites3.csv	100079	xGL	accepted	Underwoodisaurus milii	Bory De Saint-Vincent, 1823	species	https://www.speciesplus.net/species#/taxon_concepts/100079/legal
+NameUsage_cites3.csv	100080	xGL	accepted	Underwoodisaurus seorsus	Doughty & Oliver, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/100080/legal
+NameUsage_cites3.csv	100081	xKM	accepted	Uvidicolus sphyrurus	Ogilby, 1892	species	https://www.speciesplus.net/species#/taxon_concepts/100081/legal
+NameUsage_cites3.csv	100082	x7H	accepted	Strophurus assimilis	Storr, 1988	species	https://www.speciesplus.net/species#/taxon_concepts/100082/legal
+NameUsage_cites3.csv	100083	x7H	accepted	Strophurus ciliaris	Boulenger, 1885	species	https://www.speciesplus.net/species#/taxon_concepts/100083/legal
+NameUsage_cites3.csv	100084	x7H	accepted	Strophurus congoo	Vanderduys, 2016	species	https://www.speciesplus.net/species#/taxon_concepts/100084/legal
+NameUsage_cites3.csv	100085	x7H	accepted	Strophurus elderi	Stirling & Zietz, 1893	species	https://www.speciesplus.net/species#/taxon_concepts/100085/legal
+NameUsage_cites3.csv	100086	x7H	accepted	Strophurus horneri	Oliver & Parkin, 2014	species	https://www.speciesplus.net/species#/taxon_concepts/100086/legal
+NameUsage_cites3.csv	100087	x7H	accepted	Strophurus intermedius	Ogilby, 1892	species	https://www.speciesplus.net/species#/taxon_concepts/100087/legal
+NameUsage_cites3.csv	100088	x7H	accepted	Strophurus jeanae	Storr, 1988	species	https://www.speciesplus.net/species#/taxon_concepts/100088/legal
+NameUsage_cites3.csv	100089	x7H	accepted	Strophurus krisalys	Sadlier, 2005	species	https://www.speciesplus.net/species#/taxon_concepts/100089/legal
+NameUsage_cites3.csv	100090	x7H	accepted	Strophurus mcmillani	Storr, 1978	species	https://www.speciesplus.net/species#/taxon_concepts/100090/legal
+NameUsage_cites3.csv	100091	x7H	accepted	Strophurus michaelseni	Werner, 1910	species	https://www.speciesplus.net/species#/taxon_concepts/100091/legal
+NameUsage_cites3.csv	100092	x7H	accepted	Strophurus rankini	Storr, 1979	species	https://www.speciesplus.net/species#/taxon_concepts/100092/legal
+NameUsage_cites3.csv	100093	x7H	accepted	Strophurus robinsoni	Smith, 1995	species	https://www.speciesplus.net/species#/taxon_concepts/100093/legal
+NameUsage_cites3.csv	100094	x7H	accepted	Strophurus spinigerus	Gray, 1842	species	https://www.speciesplus.net/species#/taxon_concepts/100094/legal
+NameUsage_cites3.csv	100095	x7H	accepted	Strophurus strophurus	Duméril & Bibron, 1836	species	https://www.speciesplus.net/species#/taxon_concepts/100095/legal
+NameUsage_cites3.csv	100096	x7H	accepted	Strophurus taeniatus	Lönnberg & Andersson, 1913	species	https://www.speciesplus.net/species#/taxon_concepts/100096/legal
+NameUsage_cites3.csv	100097	x7H	accepted	Strophurus taenicauda	De Vis, 1886	species	https://www.speciesplus.net/species#/taxon_concepts/100097/legal
+NameUsage_cites3.csv	100098	x7H	accepted	Strophurus trux	Vanderduys, 2017	species	https://www.speciesplus.net/species#/taxon_concepts/100098/legal
+NameUsage_cites3.csv	100099	x7H	accepted	Strophurus wellingtonae	Storr, 1988	species	https://www.speciesplus.net/species#/taxon_concepts/100099/legal
+NameUsage_cites3.csv	100100	x7H	accepted	Strophurus williamsi	Kluge, 1963	species	https://www.speciesplus.net/species#/taxon_concepts/100100/legal
+NameUsage_cites3.csv	100101	x7H	accepted	Strophurus wilsoni	Storr, 1983	species	https://www.speciesplus.net/species#/taxon_concepts/100101/legal
+NameUsage_cites3.csv	100102	x3K	accepted	Egernia cunninghami	Gray, 1832	species	https://www.speciesplus.net/species#/taxon_concepts/100102/legal
+NameUsage_cites3.csv	100103	x3K	accepted	Egernia cygnitos	Doughty, Kealley & Donnellan, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/100103/legal
+NameUsage_cites3.csv	100104	x3K	accepted	Egernia depressa	Günther, 1875	species	https://www.speciesplus.net/species#/taxon_concepts/100104/legal
+NameUsage_cites3.csv	100105	x3K	accepted	Egernia douglasi	Glauert, 1956	species	https://www.speciesplus.net/species#/taxon_concepts/100105/legal
+NameUsage_cites3.csv	100106	x3K	accepted	Egernia eos	Doughty, Kealley & Donnellan, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/100106/legal
+NameUsage_cites3.csv	100107	x3K	accepted	Egernia epsisolus	Doughty, Kealley & Donnellan, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/100107/legal
+NameUsage_cites3.csv	100108	x3K	accepted	Egernia formosa	Fry, 1914	species	https://www.speciesplus.net/species#/taxon_concepts/100108/legal
+NameUsage_cites3.csv	100109	x3K	accepted	Egernia hosmeri	Kinghorn, 1955	species	https://www.speciesplus.net/species#/taxon_concepts/100109/legal
+NameUsage_cites3.csv	100110	x3K	accepted	Egernia kingii	Gray, 1838	species	https://www.speciesplus.net/species#/taxon_concepts/100110/legal
+NameUsage_cites3.csv	100111	x3K	accepted	Egernia mcpheei	Wells & Wellington, 1984	species	https://www.speciesplus.net/species#/taxon_concepts/100111/legal
+NameUsage_cites3.csv	100112	x3K	accepted	Egernia napoleonis	Gray, 1838	species	https://www.speciesplus.net/species#/taxon_concepts/100112/legal
+NameUsage_cites3.csv	100113	x3K	accepted	Egernia pilbarensis	Storr, 1978	species	https://www.speciesplus.net/species#/taxon_concepts/100113/legal
+NameUsage_cites3.csv	100114	x3K	accepted	Egernia richardi	Peters, 1869	species	https://www.speciesplus.net/species#/taxon_concepts/100114/legal
+NameUsage_cites3.csv	100115	x3K	accepted	Egernia roomi	Wells & Wellington, 1985	species	https://www.speciesplus.net/species#/taxon_concepts/100115/legal
+NameUsage_cites3.csv	100116	x3K	accepted	Egernia rugosa	De Vis, 1888	species	https://www.speciesplus.net/species#/taxon_concepts/100116/legal
+NameUsage_cites3.csv	100117	x3K	accepted	Egernia saxatilis	Cogger, 1960	species	https://www.speciesplus.net/species#/taxon_concepts/100117/legal
+NameUsage_cites3.csv	100118	x3K	accepted	Egernia stokesii	Gray, 1845	species	https://www.speciesplus.net/species#/taxon_concepts/100118/legal
+NameUsage_cites3.csv	100119	x3K	accepted	Egernia striolata	Peters, 1870	species	https://www.speciesplus.net/species#/taxon_concepts/100119/legal
+NameUsage_cites3.csv	10012	xJB	accepted	Potos flavus	(Schreber, 1774)	species	https://www.speciesplus.net/species#/taxon_concepts/10012/legal
+NameUsage_cites3.csv	100122	x95	accepted	Holacanthus limbaughi	Baldwin W. J., 1963	species	https://www.speciesplus.net/species#/taxon_concepts/100122/legal
+NameUsage_cites3.csv	100124	x7T	accepted	Tiliqua multifasciata	Sternfeld, 1919	species	https://www.speciesplus.net/species#/taxon_concepts/100124/legal
+NameUsage_cites3.csv	100126	x7T	accepted	Tiliqua nigrolutea	Quoy & Gaimard, 1824	species	https://www.speciesplus.net/species#/taxon_concepts/100126/legal
+NameUsage_cites3.csv	100127	x7T	accepted	Tiliqua occipitalis	Peters, 1863	species	https://www.speciesplus.net/species#/taxon_concepts/100127/legal
+NameUsage_cites3.csv	100128	x7T	accepted	Tiliqua rugosa	Gray, 1825	species	https://www.speciesplus.net/species#/taxon_concepts/100128/legal
+NameUsage_cites3.csv	100130	x7T	accepted	Tiliqua scincoides intermedia	Mitchell, 1955	subspecies	https://www.speciesplus.net/species#/taxon_concepts/100130/legal
+NameUsage_cites3.csv	100132	x7T	accepted	Tiliqua scincoides scincoides	White, 1790	subspecies	https://www.speciesplus.net/species#/taxon_concepts/100132/legal
+NameUsage_cites3.csv	100134	xX	accepted	Ctenophorus adelaidensis	(Gray, 1841)	species	https://www.speciesplus.net/species#/taxon_concepts/100134/legal
+NameUsage_cites3.csv	100135	xX	accepted	Ctenophorus butlerorum	(Storr, 1977)	species	https://www.speciesplus.net/species#/taxon_concepts/100135/legal
+NameUsage_cites3.csv	100136	xX	accepted	Ctenophorus caudicinctus	(Günther, 1875)	species	https://www.speciesplus.net/species#/taxon_concepts/100136/legal
+NameUsage_cites3.csv	100137	xX	accepted	Ctenophorus chapmani	(Storr, 1977)	species	https://www.speciesplus.net/species#/taxon_concepts/100137/legal
+NameUsage_cites3.csv	100138	xX	accepted	Ctenophorus clayi	(Storr, 1967)	species	https://www.speciesplus.net/species#/taxon_concepts/100138/legal
+NameUsage_cites3.csv	100139	xX	accepted	Ctenophorus cristatus	(Gray, 1841)	species	https://www.speciesplus.net/species#/taxon_concepts/100139/legal
+NameUsage_cites3.csv	100140	xX	accepted	Ctenophorus decresii	(Duméril & Bibron, 1837)	species	https://www.speciesplus.net/species#/taxon_concepts/100140/legal
+NameUsage_cites3.csv	100141	xX	accepted	Ctenophorus femoralis	(Storr, 1965)	species	https://www.speciesplus.net/species#/taxon_concepts/100141/legal
+NameUsage_cites3.csv	100142	xX	accepted	Ctenophorus fionni	(Procter, 1923)	species	https://www.speciesplus.net/species#/taxon_concepts/100142/legal
+NameUsage_cites3.csv	100143	xX	accepted	Ctenophorus fordi	(Storr, 1965)	species	https://www.speciesplus.net/species#/taxon_concepts/100143/legal
+NameUsage_cites3.csv	100144	xX	accepted	Ctenophorus gibba	(Houston, 1974)	species	https://www.speciesplus.net/species#/taxon_concepts/100144/legal
+NameUsage_cites3.csv	100145	xX	accepted	Ctenophorus graafi	(Storr, 1967)	species	https://www.speciesplus.net/species#/taxon_concepts/100145/legal
+NameUsage_cites3.csv	100146	xX	accepted	Ctenophorus infans	(Storr, 1967)	species	https://www.speciesplus.net/species#/taxon_concepts/100146/legal
+NameUsage_cites3.csv	100147	xX	accepted	Ctenophorus isolepis	(Fischer, 1881)	species	https://www.speciesplus.net/species#/taxon_concepts/100147/legal
+NameUsage_cites3.csv	100148	xX	accepted	Ctenophorus maculatus	(Gray, 1831)	species	https://www.speciesplus.net/species#/taxon_concepts/100148/legal
+NameUsage_cites3.csv	100149	xX	accepted	Ctenophorus maculosus	(Mitchell, 1948)	species	https://www.speciesplus.net/species#/taxon_concepts/100149/legal
+NameUsage_cites3.csv	100150	xX	accepted	Ctenophorus mckenziei	(Storr, 1981)	species	https://www.speciesplus.net/species#/taxon_concepts/100150/legal
+NameUsage_cites3.csv	100151	xX	accepted	Ctenophorus mirrityana	Mclean, Moussalli, Sass, Stuart-Fox, 2013	species	https://www.speciesplus.net/species#/taxon_concepts/100151/legal
+NameUsage_cites3.csv	100152	xX	accepted	Ctenophorus modestus	(Ahl, 1926)	species	https://www.speciesplus.net/species#/taxon_concepts/100152/legal
+NameUsage_cites3.csv	100153	xX	accepted	Ctenophorus nguyarna	Doughty, Maryan, Melville & Austin, 2007	species	https://www.speciesplus.net/species#/taxon_concepts/100153/legal
+NameUsage_cites3.csv	100154	xX	accepted	Ctenophorus nuchalis	(De Vis, 1884)	species	https://www.speciesplus.net/species#/taxon_concepts/100154/legal
+NameUsage_cites3.csv	100155	xX	accepted	Ctenophorus ornatus	(Gray, 1845)	species	https://www.speciesplus.net/species#/taxon_concepts/100155/legal
+NameUsage_cites3.csv	100156	xX	accepted	Ctenophorus parviceps	(Storr, 1964)	species	https://www.speciesplus.net/species#/taxon_concepts/100156/legal
+NameUsage_cites3.csv	100157	xX	accepted	Ctenophorus pictus	(Peters, 1866)	species	https://www.speciesplus.net/species#/taxon_concepts/100157/legal
+NameUsage_cites3.csv	100158	xX	accepted	Ctenophorus reticulatus	(Gray, 1845)	species	https://www.speciesplus.net/species#/taxon_concepts/100158/legal
+NameUsage_cites3.csv	100159	xX	accepted	Ctenophorus rubens	(Storr, 1965)	species	https://www.speciesplus.net/species#/taxon_concepts/100159/legal
+NameUsage_cites3.csv	100160	xX	accepted	Ctenophorus rufescens	(Stirling & Zietz, 1893)	species	https://www.speciesplus.net/species#/taxon_concepts/100160/legal
+NameUsage_cites3.csv	100161	xX	accepted	Ctenophorus salinarum	(Storr, 1966)	species	https://www.speciesplus.net/species#/taxon_concepts/100161/legal
+NameUsage_cites3.csv	100162	xX	accepted	Ctenophorus scutulatus	(Stirling & Zietz, 1893)	species	https://www.speciesplus.net/species#/taxon_concepts/100162/legal
+NameUsage_cites3.csv	100163	xX	accepted	Ctenophorus slateri	(Storr, 1967)	species	https://www.speciesplus.net/species#/taxon_concepts/100163/legal
+NameUsage_cites3.csv	100164	xX	accepted	Ctenophorus spinodomus	Sadlier, Colgan, Beatson & Cogger, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100164/legal
+NameUsage_cites3.csv	100165	xX	accepted	Ctenophorus tjantjalka	Johnston, 1992	species	https://www.speciesplus.net/species#/taxon_concepts/100165/legal
+NameUsage_cites3.csv	100166	xX	accepted	Ctenophorus vadnappa	Houston, 1974	species	https://www.speciesplus.net/species#/taxon_concepts/100166/legal
+NameUsage_cites3.csv	100167	xX	accepted	Ctenophorus yinnietharra	(Storr, 1981)	species	https://www.speciesplus.net/species#/taxon_concepts/100167/legal
+NameUsage_cites3.csv	100168	xKP	accepted	Intellagama lesueurii	(Gray, 1831)	species	https://www.speciesplus.net/species#/taxon_concepts/100168/legal
+NameUsage_cites3.csv	100169	x57	accepted	Tympanocryptis argillosa	Melville, Chaplin, Hipsley, Sarre, Sumner & Hutchinson, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100169/legal
+NameUsage_cites3.csv	100170	x57	accepted	Tympanocryptis centralis	Sternfeld, 1925	species	https://www.speciesplus.net/species#/taxon_concepts/100170/legal
+NameUsage_cites3.csv	100171	x57	accepted	Tympanocryptis cephalus	Günther, 1867	species	https://www.speciesplus.net/species#/taxon_concepts/100171/legal
+NameUsage_cites3.csv	100172	x57	accepted	Tympanocryptis condaminensis	Melville, Smith, Hobson, Hunjan & Shoo, 2014	species	https://www.speciesplus.net/species#/taxon_concepts/100172/legal
+NameUsage_cites3.csv	100173	x57	accepted	Tympanocryptis diabolicus	Doughty, Kealley, Shoo & Melville, 2015	species	https://www.speciesplus.net/species#/taxon_concepts/100173/legal
+NameUsage_cites3.csv	100174	x57	accepted	Tympanocryptis fictilis	Melville, Chaplin, Hipsley, Sarre, Sumner & Hutchinson, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100174/legal
+NameUsage_cites3.csv	100175	x57	accepted	Tympanocryptis fortescuensis	Doughty, Kealley, Shoo & Melville, 2015	species	https://www.speciesplus.net/species#/taxon_concepts/100175/legal
+NameUsage_cites3.csv	100176	x57	accepted	Tympanocryptis gigas	Mitchell, 1948	species	https://www.speciesplus.net/species#/taxon_concepts/100176/legal
+NameUsage_cites3.csv	100177	x57	accepted	Tympanocryptis houstoni	Storr, 1982	species	https://www.speciesplus.net/species#/taxon_concepts/100177/legal
+NameUsage_cites3.csv	100178	x57	accepted	Tympanocryptis intima	Mitchell, 1948	species	https://www.speciesplus.net/species#/taxon_concepts/100178/legal
+NameUsage_cites3.csv	100179	x57	accepted	Tympanocryptis lineata	Peters, 1863	species	https://www.speciesplus.net/species#/taxon_concepts/100179/legal
+NameUsage_cites3.csv	100180	x57	accepted	Tympanocryptis macra	Storr, 1982	species	https://www.speciesplus.net/species#/taxon_concepts/100180/legal
+NameUsage_cites3.csv	100181	x57	accepted	Tympanocryptis mccartneyi	Melville, Chaplin, Hutchinson, Sumner, Gruber, Macdonald & Sarre, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100181/legal
+NameUsage_cites3.csv	100182	x57	accepted	Tympanocryptis osbornei	Melville, Chaplin, Hutchinson, Sumner, Gruber, Macdonald & Sarre, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100182/legal
+NameUsage_cites3.csv	100183	x57	accepted	Tympanocryptis pentalineata	Melville, Smith, Hobson, Hunjan & Shoo, 2014	species	https://www.speciesplus.net/species#/taxon_concepts/100183/legal
+NameUsage_cites3.csv	100184	x57	accepted	Tympanocryptis petersi	Melville, Chaplin, Hipsley, Sarre, Sumner & Hutchinson, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100184/legal
+NameUsage_cites3.csv	100185	x57	accepted	Tympanocryptis pinguicolla	Mitchell, 1948	species	https://www.speciesplus.net/species#/taxon_concepts/100185/legal
+NameUsage_cites3.csv	100186	x57	accepted	Tympanocryptis pseudopsephos	Doughty, Kealley, Shoo & Melville, 2015	species	https://www.speciesplus.net/species#/taxon_concepts/100186/legal
+NameUsage_cites3.csv	100187	x57	accepted	Tympanocryptis rustica	Melville, Chaplin, Hipsley, Sarre, Sumner & Hutchinson, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100187/legal
+NameUsage_cites3.csv	100188	x57	accepted	Tympanocryptis tetraporophora	Lucas & Frost, 1895	species	https://www.speciesplus.net/species#/taxon_concepts/100188/legal
+NameUsage_cites3.csv	100189	x57	accepted	Tympanocryptis tolleyi	Melville, Chaplin, Hipsley, Sarre, Sumner & Hutchinson, 2019	species	https://www.speciesplus.net/species#/taxon_concepts/100189/legal
+NameUsage_cites3.csv	100190	x57	accepted	Tympanocryptis uniformis	Mitchell, 1948	species	https://www.speciesplus.net/species#/taxon_concepts/100190/legal
+NameUsage_cites3.csv	100191	x57	accepted	Tympanocryptis wilsoni	Melville, Smith, Hobson, Hunjan & Shoo, 2014	species	https://www.speciesplus.net/species#/taxon_concepts/100191/legal
+NameUsage_cites3.csv	100192	xJD	accepted	Carphodactylus laevis	Günther, 1897	species	https://www.speciesplus.net/species#/taxon_concepts/100192/legal
+NameUsage_cites3.csv	100193	xMM	accepted	Orraya occultus	(Couper, Covacevich & Moritz, 1993)	species	https://www.speciesplus.net/species#/taxon_concepts/100193/legal
+NameUsage_cites3.csv	100194	x4B	accepted	Nephrurus amyae	Couper, 1994	species	https://www.speciesplus.net/species#/taxon_concepts/100194/legal
+NameUsage_cites3.csv	100195	x4B	accepted	Nephrurus asper	Günther, 1876	species	https://www.speciesplus.net/species#/taxon_concepts/100195/legal
+NameUsage_cites3.csv	100196	x4B	accepted	Nephrurus cinctus	Storr, 1963	species	https://www.speciesplus.net/species#/taxon_concepts/100196/legal
+NameUsage_cites3.csv	100197	x4B	accepted	Nephrurus deleani	Harvey, 1983	species	https://www.speciesplus.net/species#/taxon_concepts/100197/legal
+NameUsage_cites3.csv	100198	x4B	accepted	Nephrurus laevissimus	Mertens, 1958	species	https://www.speciesplus.net/species#/taxon_concepts/100198/legal
+NameUsage_cites3.csv	100199	x4B	accepted	Nephrurus levis	De Vis, 1886	species	https://www.speciesplus.net/species#/taxon_concepts/100199/legal
+NameUsage_cites3.csv	100200	x4B	accepted	Nephrurus sheai	Couper, 1994	species	https://www.speciesplus.net/species#/taxon_concepts/100200/legal
+NameUsage_cites3.csv	100201	x4B	accepted	Nephrurus stellatus	Storr, 1968	species	https://www.speciesplus.net/species#/taxon_concepts/100201/legal
+NameUsage_cites3.csv	100202	x4B	accepted	Nephrurus vertebralis	Storr, 1963	species	https://www.speciesplus.net/species#/taxon_concepts/100202/legal
+NameUsage_cites3.csv	100203	x4B	accepted	Nephrurus wheeleri	Loveridge, 1932	species	https://www.speciesplus.net/species#/taxon_concepts/100203/legal
+NameUsage_cites3.csv	10029	xKF	accepted	Carduelis cannabina	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/10029/legal
+NameUsage_cites3.csv	100331	xHP	accepted	Caribena versicolor	(Walckenaer, 1837)	species	https://www.speciesplus.net/species#/taxon_concepts/100331/legal
+NameUsage_cites3.csv	100665	xGS	accepted	Melopyrrha nigra	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/100665/legal
+NameUsage_cites3.csv	100666	xL8	accepted	Tiaris canorus	(Gmelin, 1789)	species	https://www.speciesplus.net/species#/taxon_concepts/100666/legal
+NameUsage_cites3.csv	100667	xNQ	accepted	Mestoklema tuberosum	(L.) N.E. Br. ex Glen	species	https://www.speciesplus.net/species#/taxon_concepts/100667/legal
+NameUsage_cites3.csv	100668	xB2	accepted	Raphionacme zeyheri	Harv.	species	https://www.speciesplus.net/species#/taxon_concepts/100668/legal
+NameUsage_cites3.csv	100669	x62	accepted	Tylecodon bodleyae	van Jaarsv.	species	https://www.speciesplus.net/species#/taxon_concepts/100669/legal
+NameUsage_cites3.csv	100670	x62	accepted	Tylecodon nolteei	Lavranos	species	https://www.speciesplus.net/species#/taxon_concepts/100670/legal
+NameUsage_cites3.csv	100671	x62	accepted	Tylecodon reticulatus	(L. f.) Toelken	species	https://www.speciesplus.net/species#/taxon_concepts/100671/legal
+NameUsage_cites3.csv	100672	xB	accepted	Monsonia herrei	(L.Bolus) F.Albers	species	https://www.speciesplus.net/species#/taxon_concepts/100672/legal
+NameUsage_cites3.csv	100673	xB	accepted	Monsonia multifida	E.Mey.	species	https://www.speciesplus.net/species#/taxon_concepts/100673/legal
+NameUsage_cites3.csv	100674	xB	accepted	Monsonia patersonii	DC.	species	https://www.speciesplus.net/species#/taxon_concepts/100674/legal
+NameUsage_cites3.csv	100675	xBZ	accepted	Pelargonium crassicaule	L'Hér.	species	https://www.speciesplus.net/species#/taxon_concepts/100675/legal
+NameUsage_cites3.csv	100676	xBZ	accepted	Pelargonium triste	(L.) L'Hér.	species	https://www.speciesplus.net/species#/taxon_concepts/100676/legal
+NameUsage_cites3.csv	100677	xLS	accepted	Portulacaria pygmaea	Pillans	species	https://www.speciesplus.net/species#/taxon_concepts/100677/legal
+NameUsage_cites3.csv	100678	x3F	accepted	Conophytum achabense	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100678/legal
+NameUsage_cites3.csv	100679	x3F	accepted	Conophytum acutum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100679/legal
+NameUsage_cites3.csv	100680	x3F	accepted	Conophytum albiflorum	(Rawé) S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100680/legal
+NameUsage_cites3.csv	100681	x3F	accepted	Conophytum angelicae	(Dinter & Schwantes) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100681/legal
+NameUsage_cites3.csv	100682	x3F	accepted	Conophytum antonii	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100682/legal
+NameUsage_cites3.csv	100683	x3F	accepted	Conophytum armianum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100683/legal
+NameUsage_cites3.csv	100684	x3F	accepted	Conophytum auriflorum	Tischer	species	https://www.speciesplus.net/species#/taxon_concepts/100684/legal
+NameUsage_cites3.csv	100685	x3F	accepted	Conophytum bachelorum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100685/legal
+NameUsage_cites3.csv	100686	x3F	accepted	Conophytum bicarinatum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100686/legal
+NameUsage_cites3.csv	100687	x3F	accepted	Conophytum bilobum	(Marloth) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100687/legal
+NameUsage_cites3.csv	100688	x3F	accepted	Conophytum blandum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100688/legal
+NameUsage_cites3.csv	100689	x3F	accepted	Conophytum bolusiae	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100689/legal
+NameUsage_cites3.csv	100690	x3F	accepted	Conophytum breve	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100690/legal
+NameUsage_cites3.csv	100691	x3F	accepted	Conophytum brunneum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100691/legal
+NameUsage_cites3.csv	100692	x3F	accepted	Conophytum bruynsii	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100692/legal
+NameUsage_cites3.csv	100693	x3F	accepted	Conophytum burgeri	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100693/legal
+NameUsage_cites3.csv	100694	x3F	accepted	Conophytum buysianum	A.R.Mitch. & S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100694/legal
+NameUsage_cites3.csv	100695	x3F	accepted	Conophytum calculus	(A.Berger) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100695/legal
+NameUsage_cites3.csv	100697	x3F	accepted	Conophytum caroli	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100697/legal
+NameUsage_cites3.csv	100698	x3F	accepted	Conophytum carpianum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100698/legal
+NameUsage_cites3.csv	100699	x3F	accepted	Conophytum chauviniae	(Schwantes) S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100699/legal
+NameUsage_cites3.csv	100700	x3F	accepted	Conophytum chrisocruxum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100700/legal
+NameUsage_cites3.csv	100701	x3F	accepted	Conophytum chrisolum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100701/legal
+NameUsage_cites3.csv	100702	x3F	accepted	Conophytum comptonii	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100702/legal
+NameUsage_cites3.csv	100703	x3F	accepted	Conophytum concavum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100703/legal
+NameUsage_cites3.csv	100704	x3F	accepted	Conophytum confusum	A.J.Young, Rodgerson, S.A.Hammer & Opel	species	https://www.speciesplus.net/species#/taxon_concepts/100704/legal
+NameUsage_cites3.csv	100705	x3F	accepted	Conophytum crateriforme	A.J.Young, Rodgerson, Harrower & S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100705/legal
+NameUsage_cites3.csv	100706	x3F	accepted	Conophytum cubicum	Pavelka	species	https://www.speciesplus.net/species#/taxon_concepts/100706/legal
+NameUsage_cites3.csv	100707	x3F	accepted	Conophytum depressum	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100707/legal
+NameUsage_cites3.csv	100708	x3F	accepted	Conophytum devium	G.D.Rowley	species	https://www.speciesplus.net/species#/taxon_concepts/100708/legal
+NameUsage_cites3.csv	100709	x3F	accepted	Conophytum ectypum	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100709/legal
+NameUsage_cites3.csv	100710	x3F	accepted	Conophytum ernstii	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100710/legal
+NameUsage_cites3.csv	100711	x3F	accepted	Conophytum fibuliforme	(Haw.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100711/legal
+NameUsage_cites3.csv	100712	x3F	accepted	Conophytum ficiforme	(Haw.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100712/legal
+NameUsage_cites3.csv	100713	x3F	accepted	Conophytum flavum	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100713/legal
+NameUsage_cites3.csv	100714	x3F	accepted	Conophytum francoiseae	(S.A.Hammer) S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100714/legal
+NameUsage_cites3.csv	100715	x3F	accepted	Conophytum fraternum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100715/legal
+NameUsage_cites3.csv	100716	x3F	accepted	Conophytum friedrichiae	(Dinter) Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100716/legal
+NameUsage_cites3.csv	100717	x3F	accepted	Conophytum frutescens	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100717/legal
+NameUsage_cites3.csv	100718	x3F	accepted	Conophytum fulleri	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100718/legal
+NameUsage_cites3.csv	100719	x3F	accepted	Conophytum globosum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100719/legal
+NameUsage_cites3.csv	100720	x3F	accepted	Conophytum halenbergense	(Dinter & Schwantes) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100720/legal
+NameUsage_cites3.csv	100721	x3F	accepted	Conophytum hammeri	G.Will. & H.C.Kenn.	species	https://www.speciesplus.net/species#/taxon_concepts/100721/legal
+NameUsage_cites3.csv	100722	x3F	accepted	Conophytum hanae	Pavelka	species	https://www.speciesplus.net/species#/taxon_concepts/100722/legal
+NameUsage_cites3.csv	100723	x3F	accepted	Conophytum herreanthus	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100723/legal
+NameUsage_cites3.csv	100724	x3F	accepted	Conophytum hians	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100724/legal
+NameUsage_cites3.csv	100725	x3F	accepted	Conophytum hyracis	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100725/legal
+NameUsage_cites3.csv	100726	x3F	accepted	Conophytum irmae	S.A.Hammer & Barnhill	species	https://www.speciesplus.net/species#/taxon_concepts/100726/legal
+NameUsage_cites3.csv	100727	x3F	accepted	Conophytum jarmilae	Halda	species	https://www.speciesplus.net/species#/taxon_concepts/100727/legal
+NameUsage_cites3.csv	100736	x3F	accepted	Conophytum joubertii	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100736/legal
+NameUsage_cites3.csv	100737	x3F	accepted	Conophytum jucundum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100737/legal
+NameUsage_cites3.csv	100738	x3F	accepted	Conophytum khamiesbergense	(L.Bolus) Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100738/legal
+NameUsage_cites3.csv	100739	x3F	accepted	Conophytum klinghardtense	Rawé	species	https://www.speciesplus.net/species#/taxon_concepts/100739/legal
+NameUsage_cites3.csv	100740	x3F	accepted	Conophytum limpidum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100740/legal
+NameUsage_cites3.csv	100741	x3F	accepted	Conophytum lithopsoides	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100741/legal
+NameUsage_cites3.csv	100742	x3F	accepted	Conophytum loescheanum	Tischer	species	https://www.speciesplus.net/species#/taxon_concepts/100742/legal
+NameUsage_cites3.csv	100743	x3F	accepted	Conophytum longibracteatum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100743/legal
+NameUsage_cites3.csv	100744	x3F	accepted	Conophytum longum	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100744/legal
+NameUsage_cites3.csv	100745	x3F	accepted	Conophytum luckhoffii	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100745/legal
+NameUsage_cites3.csv	100746	x3F	accepted	Conophytum lydiae	(H.Jacobsen) G.D.Rowley	species	https://www.speciesplus.net/species#/taxon_concepts/100746/legal
+NameUsage_cites3.csv	100747	x3F	accepted	Conophytum marginatum	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100747/legal
+NameUsage_cites3.csv	100748	x3F	accepted	Conophytum maughanii	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100748/legal
+NameUsage_cites3.csv	100749	x3F	accepted	Conophytum meyeri	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100749/legal
+NameUsage_cites3.csv	100750	x3F	accepted	Conophytum minimum	(Haw.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100750/legal
+NameUsage_cites3.csv	100751	x3F	accepted	Conophytum minusculum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100751/legal
+NameUsage_cites3.csv	100752	x3F	accepted	Conophytum minutum	(Haw.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100752/legal
+NameUsage_cites3.csv	100753	x3F	accepted	Conophytum mirabile	A.R.Mitch. & S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100753/legal
+NameUsage_cites3.csv	100754	x3F	accepted	Conophytum obcordellum	(Haw.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100754/legal
+NameUsage_cites3.csv	100755	x3F	accepted	Conophytum obscurum	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100755/legal
+NameUsage_cites3.csv	100756	x3F	accepted	Conophytum pageae	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100756/legal
+NameUsage_cites3.csv	100757	x3F	accepted	Conophytum pellucidum	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100757/legal
+NameUsage_cites3.csv	100758	x3F	accepted	Conophytum phoeniceum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100758/legal
+NameUsage_cites3.csv	100759	x3F	accepted	Conophytum piluliforme	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100759/legal
+NameUsage_cites3.csv	100760	x3F	accepted	Conophytum pium	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100760/legal
+NameUsage_cites3.csv	100761	x3F	accepted	Conophytum praesectum	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100761/legal
+NameUsage_cites3.csv	100762	x3F	accepted	Conophytum pubescens	(Tischer) G.D.Rowley	species	https://www.speciesplus.net/species#/taxon_concepts/100762/legal
+NameUsage_cites3.csv	100763	x3F	accepted	Conophytum pubicalyx	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100763/legal
+NameUsage_cites3.csv	100764	x3F	accepted	Conophytum quaesitum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100764/legal
+NameUsage_cites3.csv	100765	x3F	accepted	Conophytum ratum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100765/legal
+NameUsage_cites3.csv	100766	x3F	accepted	Conophytum reconditum	A.R.Mitch.	species	https://www.speciesplus.net/species#/taxon_concepts/100766/legal
+NameUsage_cites3.csv	100767	x3F	accepted	Conophytum regale	Lavis	species	https://www.speciesplus.net/species#/taxon_concepts/100767/legal
+NameUsage_cites3.csv	100768	x3F	accepted	Conophytum ricardianum	Losch & Tischler	species	https://www.speciesplus.net/species#/taxon_concepts/100768/legal
+NameUsage_cites3.csv	100769	x3F	accepted	Conophytum roodiae	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100769/legal
+NameUsage_cites3.csv	100770	x3F	accepted	Conophytum rubrolineatum	Rawé	species	https://www.speciesplus.net/species#/taxon_concepts/100770/legal
+NameUsage_cites3.csv	100771	x3F	accepted	Conophytum rugosum	S.A.Hammer	species	https://www.speciesplus.net/species#/taxon_concepts/100771/legal
+NameUsage_cites3.csv	100772	x3F	accepted	Conophytum saxetanum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100772/legal
+NameUsage_cites3.csv	100773	x3F	accepted	Conophytum schlechteri	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100773/legal
+NameUsage_cites3.csv	100774	x3F	accepted	Conophytum semivestitum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100774/legal
+NameUsage_cites3.csv	100775	x3F	accepted	Conophytum smaleorum	Rodgerson & A.J.Young	species	https://www.speciesplus.net/species#/taxon_concepts/100775/legal
+NameUsage_cites3.csv	100776	x3F	accepted	Conophytum smorenskaduense	de Boer	species	https://www.speciesplus.net/species#/taxon_concepts/100776/legal
+NameUsage_cites3.csv	100777	x3F	accepted	Conophytum stephanii	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100777/legal
+NameUsage_cites3.csv	100778	x3F	accepted	Conophytum stevens-jonesianum	L.Bolus	species	https://www.speciesplus.net/species#/taxon_concepts/100778/legal
+NameUsage_cites3.csv	100779	x3F	accepted	Conophytum subfenestratum	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100779/legal
+NameUsage_cites3.csv	100780	x3F	accepted	Conophytum subterraneum	Smale & T.Jacobs	species	https://www.speciesplus.net/species#/taxon_concepts/100780/legal
+NameUsage_cites3.csv	100781	x3F	accepted	Conophytum swanepoelianum	Rawé	species	https://www.speciesplus.net/species#/taxon_concepts/100781/legal
+NameUsage_cites3.csv	100782	x3F	accepted	Conophytum tantillum	N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100782/legal
+NameUsage_cites3.csv	100783	x3F	accepted	Conophytum taylorianum	(Dinter & Schwantes) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100783/legal
+NameUsage_cites3.csv	100784	x3F	accepted	Conophytum truncatum	(Thunb.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100784/legal
+NameUsage_cites3.csv	100785	x3F	accepted	Conophytum turrigerum	(N.E.Br.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100785/legal
+NameUsage_cites3.csv	100786	x3F	accepted	Conophytum uviforme	(Haw.) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100786/legal
+NameUsage_cites3.csv	100787	x3F	accepted	Conophytum vanheerdei	Tischer	species	https://www.speciesplus.net/species#/taxon_concepts/100787/legal
+NameUsage_cites3.csv	100788	x3F	accepted	Conophytum velutinum	Schwantes	species	https://www.speciesplus.net/species#/taxon_concepts/100788/legal
+NameUsage_cites3.csv	100789	x3F	accepted	Conophytum verrucosum	(Lavis) G.D.Rowley	species	https://www.speciesplus.net/species#/taxon_concepts/100789/legal
+NameUsage_cites3.csv	100790	x3F	accepted	Conophytum violaciflorum	Schick & Tischer	species	https://www.speciesplus.net/species#/taxon_concepts/100790/legal
+NameUsage_cites3.csv	100791	x3F	accepted	Conophytum wettsteinii	(A.Berger) N.E.Br.	species	https://www.speciesplus.net/species#/taxon_concepts/100791/legal
+NameUsage_cites3.csv	100792	x3F	accepted	Conophytum youngii	Rodgerson	species	https://www.speciesplus.net/species#/taxon_concepts/100792/legal
+NameUsage_cites3.csv	100793	x3F	accepted	Conophytum cupreiflorum	Tischer	species	https://www.speciesplus.net/species#/taxon_concepts/100793/legal
+NameUsage_cites3.csv	100794	x3F	accepted	Conophytum marnierianum	Tischer & H.Jacobsen	species	https://www.speciesplus.net/species#/taxon_concepts/100794/legal
+NameUsage_cites3.csv	100797	x9M	accepted	Crassothonna clavifolia	(Marloth) B.Nord.	species	https://www.speciesplus.net/species#/taxon_concepts/100797/legal
+NameUsage_cites3.csv	10088	x55	accepted	Colophon eastmani	Barnard, 1932	species	https://www.speciesplus.net/species#/taxon_concepts/10088/legal
+NameUsage_cites3.csv	101112	x55	accepted	Colophon deschodti	Jacobs, Scholtz & Strümpher, 2015	species	https://www.speciesplus.net/species#/taxon_concepts/101112/legal
+NameUsage_cites3.csv	101113	x55	accepted	Colophon switalae	Jacobs, Scholtz & Strümpher, 2015	species	https://www.speciesplus.net/species#/taxon_concepts/101113/legal
+NameUsage_cites3.csv	101114	x55	accepted	Colophon struempheri	Jacobs, Scholtz & Strümpher, 2015	species	https://www.speciesplus.net/species#/taxon_concepts/101114/legal
+NameUsage_cites3.csv	101267	x55	accepted	Colophon nagaii	Mizukami, 1996	species	https://www.speciesplus.net/species#/taxon_concepts/101267/legal
+NameUsage_cites3.csv	101305	xHT	accepted	Papilio phorbanta	Linnaeus, 1771	species	https://www.speciesplus.net/species#/taxon_concepts/101305/legal
+NameUsage_cites3.csv	10223	xFF	accepted	Civettictis civetta	(Schreber, 1776)	species	https://www.speciesplus.net/species#/taxon_concepts/10223/legal
+NameUsage_cites3.csv	10235	xDQ	accepted	Hoplodactylus duvaucelii	(Duméril & Bibron, 1836)	species	https://www.speciesplus.net/species#/taxon_concepts/10235/legal
+NameUsage_cites3.csv	10277	xBN	accepted	Herpestes edwardsi	(E. Geoffroy Saint-Hilaire, 1818)	species	https://www.speciesplus.net/species#/taxon_concepts/10277/legal
+NameUsage_cites3.csv	10284	xCK	accepted	Serinus serinus	(Linnaeus, 1766)	species	https://www.speciesplus.net/species#/taxon_concepts/10284/legal
+NameUsage_cites3.csv	102991	xFP	accepted	Daboia palaestinae	(Werner, 1938)	species	https://www.speciesplus.net/species#/taxon_concepts/102991/legal
+NameUsage_cites3.csv	103129	x6L	accepted	Pleurocorallium elatius	Ridley, 1882	species	https://www.speciesplus.net/species#/taxon_concepts/103129/legal
+NameUsage_cites3.csv	103131	x6L	accepted	Pleurocorallium konojoi	Kishinouye, 1903	species	https://www.speciesplus.net/species#/taxon_concepts/103131/legal
+NameUsage_cites3.csv	103132	x6L	accepted	Pleurocorallium secundum	Dana, 1846	species	https://www.speciesplus.net/species#/taxon_concepts/103132/legal
+NameUsage_cites3.csv	10356	xF9	accepted	Arctictis binturong	(Raffles, 1821)	species	https://www.speciesplus.net/species#/taxon_concepts/10356/legal
+NameUsage_cites3.csv	10359	x5C	accepted	Pauxi pauxi	(Linnaeus, 1766)	species	https://www.speciesplus.net/species#/taxon_concepts/10359/legal
+NameUsage_cites3.csv	10393	xLV	accepted	Terpsiphone bourbonnensis	(Müller, 1776)	species	https://www.speciesplus.net/species#/taxon_concepts/10393/legal
+NameUsage_cites3.csv	10450	xMH	accepted	Selenidera maculirostris	(Lichtenstein, 1823)	species	https://www.speciesplus.net/species#/taxon_concepts/10450/legal
+NameUsage_cites3.csv	104641	x8S	accepted	Ailuronyx seychellensis	(Duméril & Bibron, 1836)	species	https://www.speciesplus.net/species#/taxon_concepts/104641/legal
+NameUsage_cites3.csv	104642	x8S	accepted	Ailuronyx tachyscopaeus	Gerlach & Canning, 1996	species	https://www.speciesplus.net/species#/taxon_concepts/104642/legal
+NameUsage_cites3.csv	104643	x8S	accepted	Ailuronyx trachygaster	(Duméril, 1851)	species	https://www.speciesplus.net/species#/taxon_concepts/104643/legal
+NameUsage_cites3.csv	10490	x7P	accepted	Graptemys geographica	(LeSueur, 1817)	species	https://www.speciesplus.net/species#/taxon_concepts/10490/legal
+NameUsage_cites3.csv	104998	x5K	accepted	Gallotia atlantica	(Peters & Doria, 1882)	species	https://www.speciesplus.net/species#/taxon_concepts/104998/legal
+NameUsage_cites3.csv	104999	x5K	accepted	Gallotia bravoana	Hutterer, 1985	species	https://www.speciesplus.net/species#/taxon_concepts/104999/legal
+NameUsage_cites3.csv	105000	x5K	accepted	Gallotia caesaris	(Lehrs, 1914)	species	https://www.speciesplus.net/species#/taxon_concepts/105000/legal
+NameUsage_cites3.csv	105001	x5K	accepted	Gallotia galloti	(Oudart, 1839)	species	https://www.speciesplus.net/species#/taxon_concepts/105001/legal
+NameUsage_cites3.csv	105002	x5K	accepted	Gallotia intermedia	Barbadillo, Lacoba, Pérez-Mellado, Sancho & López-Jurado, 1999	species	https://www.speciesplus.net/species#/taxon_concepts/105002/legal
+NameUsage_cites3.csv	105003	x5K	accepted	Gallotia stehlini	(Schenkel, 1901)	species	https://www.speciesplus.net/species#/taxon_concepts/105003/legal
+NameUsage_cites3.csv	105344	x7F	accepted	Potamotrygon garmani	Fontenelle & Carvalho, 2017	species	https://www.speciesplus.net/species#/taxon_concepts/105344/legal
+NameUsage_cites3.csv	105345	x7F	accepted	Potamotrygon adamastor	Fontenelle & Carvalho, 2017	species	https://www.speciesplus.net/species#/taxon_concepts/105345/legal
+NameUsage_cites3.csv	105346	x7F	accepted	Potamotrygon amazona	Fontenelle & Carvalho, 2017	species	https://www.speciesplus.net/species#/taxon_concepts/105346/legal
+NameUsage_cites3.csv	10553	xBJ	accepted	Dendrocygna autumnalis	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/10553/legal
+NameUsage_cites3.csv	10593	x55	accepted	Colophon whitei	Barnard, 1932	species	https://www.speciesplus.net/species#/taxon_concepts/10593/legal
+NameUsage_cites3.csv	10694	xKK	accepted	Loxia curvirostra	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/10694/legal
+NameUsage_cites3.csv	10866	xJQ	accepted	Mustela altaica	Pallas, 1811	species	https://www.speciesplus.net/species#/taxon_concepts/10866/legal
+NameUsage_cites3.csv	10869	xDN	accepted	Calyptocephalella gayi	(Duméril & Bibron, 1841)	species	https://www.speciesplus.net/species#/taxon_concepts/10869/legal
+NameUsage_cites3.csv	10927	xKF	accepted	Carduelis spinus	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/10927/legal
+NameUsage_cites3.csv	11150	xBN	accepted	Herpestes urva	(Hodgson, 1836)	species	https://www.speciesplus.net/species#/taxon_concepts/11150/legal
+NameUsage_cites3.csv	11224	x5R	accepted	Platyrrhinus lineatus	(É. Geoffroy, 1810)	species	https://www.speciesplus.net/species#/taxon_concepts/11224/legal
+NameUsage_cites3.csv	11288	x8Q	accepted	Viverra zibetha	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/11288/legal
+NameUsage_cites3.csv	12161	xNV	accepted	Agrias amydon boliviensis		subspecies	https://www.speciesplus.net/species#/taxon_concepts/12161/legal
+NameUsage_cites3.csv	12172	xJQ	accepted	Mustela erminea ferghanae	(Thomas, 1895)	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12172/legal
+NameUsage_cites3.csv	12174	x99	accepted	Vulpes vulpes pusilla	Blyth, 1854	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12174/legal
+NameUsage_cites3.csv	12177	x99	accepted	Vulpes vulpes montana	Pearson, 1836	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12177/legal
+NameUsage_cites3.csv	12195	xBN	accepted	Herpestes javanicus auropunctatus	(Hodgson, 1836)	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12195/legal
+NameUsage_cites3.csv	12217	xFR	accepted	Mazama temama cerasina	Hollister, 1914	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12217/legal
+NameUsage_cites3.csv	12245	x99	accepted	Vulpes vulpes griffithi	Blyth, 1854	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12245/legal
+NameUsage_cites3.csv	12253	xJ4	accepted	Nasua nasua solitaria	Schinz, 1821	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12253/legal
+NameUsage_cites3.csv	12265	x4S	accepted	Martes foina intermedia	Severtzov, 1873	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12265/legal
+NameUsage_cites3.csv	12327	x6Q	accepted	Cervus elaphus barbarus	Bennett, 1833	subspecies	https://www.speciesplus.net/species#/taxon_concepts/12327/legal
+NameUsage_cites3.csv	12333	xN8	accepted	Odocoileus virginianus mayensis		subspecies	https://www.speciesplus.net/species#/taxon_concepts/12333/legal
+NameUsage_cites3.csv	12336	xK5	accepted	Morpho godartii lachaumei		subspecies	https://www.speciesplus.net/species#/taxon_concepts/12336/legal
+NameUsage_cites3.csv	12339	xF7	accepted	Prepona praeneste buckleyana		subspecies	https://www.speciesplus.net/species#/taxon_concepts/12339/legal
+NameUsage_cites3.csv	13888	xN4	accepted	Lodoicea maldivica	(J. Gmelin) Pers.	species	https://www.speciesplus.net/species#/taxon_concepts/13888/legal
+NameUsage_cites3.csv	18210	xCF	accepted	Pinus koraiensis	Sieber & Zucc.	species	https://www.speciesplus.net/species#/taxon_concepts/18210/legal
+NameUsage_cites3.csv	18269	xCP	accepted	Gnetum montanum	Markgraf	species	https://www.speciesplus.net/species#/taxon_concepts/18269/legal
+NameUsage_cites3.csv	18543	x42	accepted	Adenia spinosa	Burtt Davy	species	https://www.speciesplus.net/species#/taxon_concepts/18543/legal
+NameUsage_cites3.csv	19760	xJ	accepted	Othonna cacalioides	L.f.	species	https://www.speciesplus.net/species#/taxon_concepts/19760/legal
+NameUsage_cites3.csv	21243	x82	accepted	Meconopsis regia	G. Taylor	species	https://www.speciesplus.net/species#/taxon_concepts/21243/legal
+NameUsage_cites3.csv	21337	x9T	accepted	Tetracentron sinense	Oliver	species	https://www.speciesplus.net/species#/taxon_concepts/21337/legal
+NameUsage_cites3.csv	24239	xJ	accepted	Othonna retrorsa	DC.	species	https://www.speciesplus.net/species#/taxon_concepts/24239/legal
+NameUsage_cites3.csv	26151	xJ	accepted	Othonna euphorbioides	Hutchinson	species	https://www.speciesplus.net/species#/taxon_concepts/26151/legal
+NameUsage_cites3.csv	27490	xK3	accepted	Podocarpus neriifolius	D.Don in Lambert	species	https://www.speciesplus.net/species#/taxon_concepts/27490/legal
+NameUsage_cites3.csv	28080	xJ	accepted	Othonna armiana	Van Jaarsv.	species	https://www.speciesplus.net/species#/taxon_concepts/28080/legal
+NameUsage_cites3.csv	29641	xJX	accepted	Magnolia liliifera var. obovata	(Korth.) Govaerts	variety	https://www.speciesplus.net/species#/taxon_concepts/29641/legal
+NameUsage_cites3.csv	3096	xJQ	accepted	Mustela kathiah	Hodgson, 1835	species	https://www.speciesplus.net/species#/taxon_concepts/3096/legal
+NameUsage_cites3.csv	3161	x55	accepted	Colophon cameroni	Barnard, 1929	species	https://www.speciesplus.net/species#/taxon_concepts/3161/legal
+NameUsage_cites3.csv	3199	x7P	accepted	Graptemys pseudogeographica	(Gray, 1831)	species	https://www.speciesplus.net/species#/taxon_concepts/3199/legal
+NameUsage_cites3.csv	3218	xMF	accepted	Axis porcinus	(Zimmermann, 1780)	species	https://www.speciesplus.net/species#/taxon_concepts/3218/legal
+NameUsage_cites3.csv	3270	xJ8	accepted	Meleagris ocellata	Cuvier, 1820	species	https://www.speciesplus.net/species#/taxon_concepts/3270/legal
+NameUsage_cites3.csv	3318	xL6	accepted	Burhinus bistriatus	(Wagler, 1829)	species	https://www.speciesplus.net/species#/taxon_concepts/3318/legal
+NameUsage_cites3.csv	3361	xNJ	accepted	Emys orbicularis	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/3361/legal
+NameUsage_cites3.csv	3474	xDQ	accepted	Hoplodactylus delcourti	Bauer & Russell, 1986	species	https://www.speciesplus.net/species#/taxon_concepts/3474/legal
+NameUsage_cites3.csv	3507	xHF	accepted	Sarcoramphus papa	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/3507/legal
+NameUsage_cites3.csv	36391	xC7	accepted	Micrurus ruatanus	(Günther, 1895)	species	https://www.speciesplus.net/species#/taxon_concepts/36391/legal
+NameUsage_cites3.csv	3685	x8Q	accepted	Viverra civettina	Blyth, 1862	species	https://www.speciesplus.net/species#/taxon_concepts/3685/legal
+NameUsage_cites3.csv	3745	xNG	accepted	Penelopina nigra	(Fraser, 1852)	species	https://www.speciesplus.net/species#/taxon_concepts/3745/legal
+NameUsage_cites3.csv	3747	x7R	accepted	Crax daubentoni	Gray, 1867	species	https://www.speciesplus.net/species#/taxon_concepts/3747/legal
+NameUsage_cites3.csv	3839	xNX	accepted	Lophura leucomelanos	(Latham, 1790)	species	https://www.speciesplus.net/species#/taxon_concepts/3839/legal
+NameUsage_cites3.csv	3868	x75	accepted	Atretium schistosum	(Daudin, 1803)	species	https://www.speciesplus.net/species#/taxon_concepts/3868/legal
+NameUsage_cites3.csv	4177	xLZ	accepted	Cerberus rynchops	(Schneider, 1799)	species	https://www.speciesplus.net/species#/taxon_concepts/4177/legal
+NameUsage_cites3.csv	4209	xKW	accepted	Tamandua mexicana	(Saussure, 1860)	species	https://www.speciesplus.net/species#/taxon_concepts/4209/legal
+NameUsage_cites3.csv	4262	xKY	accepted	Penelope purpurascens	Wagler, 1830	species	https://www.speciesplus.net/species#/taxon_concepts/4262/legal
+NameUsage_cites3.csv	4277	xKF	accepted	Carduelis carduelis	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/4277/legal
+NameUsage_cites3.csv	4282	xBX	accepted	Paradoxurus hermaphroditus	(Pallas, 1777)	species	https://www.speciesplus.net/species#/taxon_concepts/4282/legal
+NameUsage_cites3.csv	4357	x8D	accepted	Xenochrophis piscator	Schneider, 1799	species	https://www.speciesplus.net/species#/taxon_concepts/4357/legal
+NameUsage_cites3.csv	4524	x7R	accepted	Crax rubra	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/4524/legal
+NameUsage_cites3.csv	4546	x55	accepted	Colophon cassoni	Barnard, 1932	species	https://www.speciesplus.net/species#/taxon_concepts/4546/legal
+NameUsage_cites3.csv	4625	x55	accepted	Colophon endroedyi	Bartolozzi, 2005	species	https://www.speciesplus.net/species#/taxon_concepts/4625/legal
+NameUsage_cites3.csv	4655	xBS	accepted	Paguma larvata	(C. E. H. Smith, 1827)	species	https://www.speciesplus.net/species#/taxon_concepts/4655/legal
+NameUsage_cites3.csv	4693	xMT	accepted	Dasyprocta punctata	Gray, 1842	species	https://www.speciesplus.net/species#/taxon_concepts/4693/legal
+NameUsage_cites3.csv	4880	x55	accepted	Colophon neli	Barnard, 1932	species	https://www.speciesplus.net/species#/taxon_concepts/4880/legal
+NameUsage_cites3.csv	4985	xC3	accepted	Antilope cervicapra	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/4985/legal
+NameUsage_cites3.csv	5018	x7P	accepted	Graptemys flavimaculata	Cagle, 1954	species	https://www.speciesplus.net/species#/taxon_concepts/5018/legal
+NameUsage_cites3.csv	5113	xJ6	accepted	Crotalus durissus	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/5113/legal
+NameUsage_cites3.csv	5218	x8B	accepted	Cephalopterus ornatus	Geoffroy Saint-Hilaire, 1809	species	https://www.speciesplus.net/species#/taxon_concepts/5218/legal
+NameUsage_cites3.csv	5251	x7R	accepted	Crax alberti	Fraser, 1852	species	https://www.speciesplus.net/species#/taxon_concepts/5251/legal
+NameUsage_cites3.csv	5264	x7P	accepted	Graptemys ouachitensis	Cagle, 1953	species	https://www.speciesplus.net/species#/taxon_concepts/5264/legal
+NameUsage_cites3.csv	5279	xHW	accepted	Pteroglossus castanotis	Gould, 1834	species	https://www.speciesplus.net/species#/taxon_concepts/5279/legal
+NameUsage_cites3.csv	5310	xKF	accepted	Carduelis hornemanni	(Holböll, 1843)	species	https://www.speciesplus.net/species#/taxon_concepts/5310/legal
+NameUsage_cites3.csv	5312	x8L	accepted	Marmota caudata	(Geoffroy, 1844)	species	https://www.speciesplus.net/species#/taxon_concepts/5312/legal
+NameUsage_cites3.csv	5347	xKC	accepted	Cryptobranchus alleganiensis	(Daudin, 1803)	species	https://www.speciesplus.net/species#/taxon_concepts/5347/legal
+NameUsage_cites3.csv	5368	xGG	accepted	Sphiggurus mexicanus	(Kerr, 1792)	species	https://www.speciesplus.net/species#/taxon_concepts/5368/legal
+NameUsage_cites3.csv	5686	xBJ	accepted	Dendrocygna bicolor	(Vieillot, 1816)	species	https://www.speciesplus.net/species#/taxon_concepts/5686/legal
+NameUsage_cites3.csv	5806	xMC	accepted	Hynobius amjiensis	Gu, 1992	species	https://www.speciesplus.net/species#/taxon_concepts/5806/legal
+NameUsage_cites3.csv	5825	x8B	accepted	Cephalopterus penduliger	Sclater, 1859	species	https://www.speciesplus.net/species#/taxon_concepts/5825/legal
+NameUsage_cites3.csv	5890	xFC	accepted	Pyrrhula pyrrhula	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/5890/legal
+NameUsage_cites3.csv	5891	x7P	accepted	Graptemys caglei	Haynes & McKown, 1974	species	https://www.speciesplus.net/species#/taxon_concepts/5891/legal
+NameUsage_cites3.csv	5950	x9K	accepted	Nesoenas mayeri	(Prévost, 1843)	species	https://www.speciesplus.net/species#/taxon_concepts/5950/legal
+NameUsage_cites3.csv	6000	xJN	accepted	Semnornis ramphastinus	(Jardine, 1855)	species	https://www.speciesplus.net/species#/taxon_concepts/6000/legal
+NameUsage_cites3.csv	6008	x55	accepted	Colophon berrisfordi	Barnard, 1932	species	https://www.speciesplus.net/species#/taxon_concepts/6008/legal
+NameUsage_cites3.csv	6035	x86	accepted	Corallium japonicum	Kishinouye, 1903	species	https://www.speciesplus.net/species#/taxon_concepts/6035/legal
+NameUsage_cites3.csv	6048	xJG	accepted	Eira barbara	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/6048/legal
+NameUsage_cites3.csv	6090	xBX	accepted	Paradoxurus jerdoni	Blanford, 1885	species	https://www.speciesplus.net/species#/taxon_concepts/6090/legal
+NameUsage_cites3.csv	6182	x55	accepted	Colophon haughtoni	Barnard, 1929	species	https://www.speciesplus.net/species#/taxon_concepts/6182/legal
+NameUsage_cites3.csv	6235	xFP	accepted	Daboia russelii	(Shaw & Nodder, 1797)	species	https://www.speciesplus.net/species#/taxon_concepts/6235/legal
+NameUsage_cites3.csv	6268	xJQ	accepted	Mustela sibirica	Pallas, 1773	species	https://www.speciesplus.net/species#/taxon_concepts/6268/legal
+NameUsage_cites3.csv	6497	x55	accepted	Colophon izardi	Barnard, 1929	species	https://www.speciesplus.net/species#/taxon_concepts/6497/legal
+NameUsage_cites3.csv	6509	x7P	accepted	Graptemys versa	Stejneger, 1925	species	https://www.speciesplus.net/species#/taxon_concepts/6509/legal
+NameUsage_cites3.csv	65566	xDV	accepted	Capra sibirica		species	https://www.speciesplus.net/species#/taxon_concepts/65566/legal
+NameUsage_cites3.csv	65567	xNS	accepted	Gazella bennettii		species	https://www.speciesplus.net/species#/taxon_concepts/65567/legal
+NameUsage_cites3.csv	65568	xB4	accepted	Pavo cristatus	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/65568/legal
+NameUsage_cites3.csv	65569	xG6	accepted	Quercus mongolica	Fisch. ex Ledeb.	species	https://www.speciesplus.net/species#/taxon_concepts/65569/legal
+NameUsage_cites3.csv	65574	x3T	accepted	Boselaphus tragocamelus	(Pallas, 1766)	species	https://www.speciesplus.net/species#/taxon_concepts/65574/legal
+NameUsage_cites3.csv	65582	xDV	accepted	Capra hircus aegagrus		subspecies	https://www.speciesplus.net/species#/taxon_concepts/65582/legal
+NameUsage_cites3.csv	65584	xM7	accepted	Pseudois nayaur	(Hodgson, 1833)	species	https://www.speciesplus.net/species#/taxon_concepts/65584/legal
+NameUsage_cites3.csv	65601	xM5	accepted	Pucrasia macrolopha	(Lesson, 1829)	species	https://www.speciesplus.net/species#/taxon_concepts/65601/legal
+NameUsage_cites3.csv	65604	xH7	accepted	Fraxinus mandshurica	Rupr.	species	https://www.speciesplus.net/species#/taxon_concepts/65604/legal
+NameUsage_cites3.csv	65718	x5T	accepted	Woodworthia chrysosireticus	Robb, 1980	species	https://www.speciesplus.net/species#/taxon_concepts/65718/legal
+NameUsage_cites3.csv	65719	xBV	accepted	Mokopirirakau cryptozoicus	Jewell & Leschen, 2004	species	https://www.speciesplus.net/species#/taxon_concepts/65719/legal
+NameUsage_cites3.csv	65720	xBV	accepted	Mokopirirakau granulatus	Gray, 1845	species	https://www.speciesplus.net/species#/taxon_concepts/65720/legal
+NameUsage_cites3.csv	65721	xBV	accepted	Mokopirirakau kahutarae	Whitaker, 1985	species	https://www.speciesplus.net/species#/taxon_concepts/65721/legal
+NameUsage_cites3.csv	65722	x5T	accepted	Woodworthia maculatus	Gray, 1845	species	https://www.speciesplus.net/species#/taxon_concepts/65722/legal
+NameUsage_cites3.csv	65723	xBV	accepted	Mokopirirakau nebulosus	McCann, 1955	species	https://www.speciesplus.net/species#/taxon_concepts/65723/legal
+NameUsage_cites3.csv	65724	x5F	accepted	Dactylocnemis pacificus	Gray, 1842	species	https://www.speciesplus.net/species#/taxon_concepts/65724/legal
+NameUsage_cites3.csv	65725	x5T	accepted	Woodworthia brunneus	(Cope, 1869)	species	https://www.speciesplus.net/species#/taxon_concepts/65725/legal
+NameUsage_cites3.csv	65726	xFT	accepted	Tukutuku rakiurae	Thomas, 1981	species	https://www.speciesplus.net/species#/taxon_concepts/65726/legal
+NameUsage_cites3.csv	65727	xKH	accepted	Toropuku stephensi	Robb, 1980	species	https://www.speciesplus.net/species#/taxon_concepts/65727/legal
+NameUsage_cites3.csv	65781	x8D	accepted	Xenochrophis schnurrenbergeri	Kramer, 1977	species	https://www.speciesplus.net/species#/taxon_concepts/65781/legal
+NameUsage_cites3.csv	65782	x8D	accepted	Xenochrophis tytleri	Blyth, 1863	species	https://www.speciesplus.net/species#/taxon_concepts/65782/legal
+NameUsage_cites3.csv	6586	xLX	accepted	Ramphastos dicolorus	Linnaeus, 1766	species	https://www.speciesplus.net/species#/taxon_concepts/6586/legal
+NameUsage_cites3.csv	6811	xMK	accepted	Bubalus arnee	(Kerr, 1792)	species	https://www.speciesplus.net/species#/taxon_concepts/6811/legal
+NameUsage_cites3.csv	6814	xBN	accepted	Herpestes smithii	Gray, 1837	species	https://www.speciesplus.net/species#/taxon_concepts/6814/legal
+NameUsage_cites3.csv	68432	x5T	accepted	Woodworthia sp. 'Otago/Southland'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68432/legal
+NameUsage_cites3.csv	68433	x5F	accepted	Dactylocnemis 'Matapia'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68433/legal
+NameUsage_cites3.csv	68434	x5T	accepted	Woodworthia 'Cromwell Gorge'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68434/legal
+NameUsage_cites3.csv	68435	x5T	accepted	Woodworthia 'Pygmy'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68435/legal
+NameUsage_cites3.csv	68436	x5F	accepted	Dactylocnemis 'Poor Knights'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68436/legal
+NameUsage_cites3.csv	68437	x5T	accepted	Woodworthia 'Kaikouras'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68437/legal
+NameUsage_cites3.csv	68438	x5T	accepted	Woodworthia 'Central Otago'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68438/legal
+NameUsage_cites3.csv	68439	x5T	accepted	Woodworthia 'Marlborough Mini'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68439/legal
+NameUsage_cites3.csv	68440	x5F	accepted	Dactylocnemis 'Three Kings'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68440/legal
+NameUsage_cites3.csv	68441	x5T	accepted	Woodworthia 'Southern Alps'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68441/legal
+NameUsage_cites3.csv	68442	x5F	accepted	Dactylocnemis 'North Cape'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68442/legal
+NameUsage_cites3.csv	68443	x5T	accepted	Woodworthia 'Southern Mini'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68443/legal
+NameUsage_cites3.csv	68444	x5T	accepted	Woodworthia sp. 'Mt.Arthur'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68444/legal
+NameUsage_cites3.csv	68445	x5F	accepted	Dactylocnemis 'Mokohinaus'	Nielsen, Bauer, Jackman, Hitchmough & Daugherty, 2011	species	https://www.speciesplus.net/species#/taxon_concepts/68445/legal
+NameUsage_cites3.csv	68476	x7F	accepted	Potamotrygon constellata	Vaillant, 1880	species	https://www.speciesplus.net/species#/taxon_concepts/68476/legal
+NameUsage_cites3.csv	68477	x7F	accepted	Potamotrygon magdalenae	Duméril, 1865	species	https://www.speciesplus.net/species#/taxon_concepts/68477/legal
+NameUsage_cites3.csv	68478	x7F	accepted	Potamotrygon motoro	Müller & Henle, 1841	species	https://www.speciesplus.net/species#/taxon_concepts/68478/legal
+NameUsage_cites3.csv	68479	x7F	accepted	Potamotrygon orbignyi	Castelnau, 1855	species	https://www.speciesplus.net/species#/taxon_concepts/68479/legal
+NameUsage_cites3.csv	68480	x7F	accepted	Potamotrygon schroederi	Fernández-Yépez, 1958	species	https://www.speciesplus.net/species#/taxon_concepts/68480/legal
+NameUsage_cites3.csv	68481	x7F	accepted	Potamotrygon scobina	Garman, 1913	species	https://www.speciesplus.net/species#/taxon_concepts/68481/legal
+NameUsage_cites3.csv	68482	x7F	accepted	Potamotrygon yepezi	Castex & Castello, 1970	species	https://www.speciesplus.net/species#/taxon_concepts/68482/legal
+NameUsage_cites3.csv	68483	xND	accepted	Paratrygon aiereba	Müller & Henle, 1841	species	https://www.speciesplus.net/species#/taxon_concepts/68483/legal
+NameUsage_cites3.csv	68484	x7F	accepted	Potamotrygon brachyura	Günther, 1880	species	https://www.speciesplus.net/species#/taxon_concepts/68484/legal
+NameUsage_cites3.csv	68485	x7F	accepted	Potamotrygon falkneri	Castex & Maciel, 1963	species	https://www.speciesplus.net/species#/taxon_concepts/68485/legal
+NameUsage_cites3.csv	68487	x7F	accepted	Potamotrygon histrix	Müller & Henle, 1839	species	https://www.speciesplus.net/species#/taxon_concepts/68487/legal
+NameUsage_cites3.csv	68489	x7F	accepted	Potamotrygon ocellata	Engelhardt, 1912	species	https://www.speciesplus.net/species#/taxon_concepts/68489/legal
+NameUsage_cites3.csv	68492	x7F	accepted	Potamotrygon amandae	Loboda & Carvalho, 2013	species	https://www.speciesplus.net/species#/taxon_concepts/68492/legal
+NameUsage_cites3.csv	68493	x7F	accepted	Potamotrygon humerosa	Garman, 1913	species	https://www.speciesplus.net/species#/taxon_concepts/68493/legal
+NameUsage_cites3.csv	68495	x7F	accepted	Potamotrygon limai	Fontenelle, da Silva & Carvalho, 2014	species	https://www.speciesplus.net/species#/taxon_concepts/68495/legal
+NameUsage_cites3.csv	68496	x7F	accepted	Potamotrygon pantanensis	Loboda & Carvalho, 2013	species	https://www.speciesplus.net/species#/taxon_concepts/68496/legal
+NameUsage_cites3.csv	68497	x7F	accepted	Potamotrygon rex	Carvalho, 2016	species	https://www.speciesplus.net/species#/taxon_concepts/68497/legal
+NameUsage_cites3.csv	6916	x55	accepted	Colophon thunbergi	Westwood, 1855	species	https://www.speciesplus.net/species#/taxon_concepts/6916/legal
+NameUsage_cites3.csv	6973	xBN	accepted	Herpestes javanicus	(É. Geoffroy Saint-Hilaire, 1818)	species	https://www.speciesplus.net/species#/taxon_concepts/6973/legal
+NameUsage_cites3.csv	7122	xGG	accepted	Sphiggurus spinosus	(F. Cuvier, 1823)	species	https://www.speciesplus.net/species#/taxon_concepts/7122/legal
+NameUsage_cites3.csv	7168	xBN	accepted	Herpestes fuscus	Waterhouse, 1838	species	https://www.speciesplus.net/species#/taxon_concepts/7168/legal
+NameUsage_cites3.csv	7173	x4S	accepted	Martes gwatkinsii	Horsfield, 1851	species	https://www.speciesplus.net/species#/taxon_concepts/7173/legal
+NameUsage_cites3.csv	7240	x55	accepted	Colophon primosi	Barnard, 1929	species	https://www.speciesplus.net/species#/taxon_concepts/7240/legal
+NameUsage_cites3.csv	7432	xGB	accepted	Proteles cristata	(Sparrman, 1783)	species	https://www.speciesplus.net/species#/taxon_concepts/7432/legal
+NameUsage_cites3.csv	7506	xNN	accepted	Ortalis vetula	(Wagler, 1830)	species	https://www.speciesplus.net/species#/taxon_concepts/7506/legal
+NameUsage_cites3.csv	7752	x99	accepted	Vulpes bengalensis	(Shaw, 1800)	species	https://www.speciesplus.net/species#/taxon_concepts/7752/legal
+NameUsage_cites3.csv	7924	xC7	accepted	Micrurus nigrocinctus	(Girard, 1854)	species	https://www.speciesplus.net/species#/taxon_concepts/7924/legal
+NameUsage_cites3.csv	7925	xMW	accepted	Acrocephalus rodericanus	(Newton, 1865)	species	https://www.speciesplus.net/species#/taxon_concepts/7925/legal
+NameUsage_cites3.csv	7972	x4L	accepted	Tragopan satyra	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/7972/legal
+NameUsage_cites3.csv	8053	x4S	accepted	Martes flavigula	(Boddaert, 1785)	species	https://www.speciesplus.net/species#/taxon_concepts/8053/legal
+NameUsage_cites3.csv	8113	xDD	accepted	Mauremys sinensis	(Gray, 1834)	species	https://www.speciesplus.net/species#/taxon_concepts/8113/legal
+NameUsage_cites3.csv	8183	x55	accepted	Colophon kawaii	Mizukami, 1996	species	https://www.speciesplus.net/species#/taxon_concepts/8183/legal
+NameUsage_cites3.csv	8217	x55	accepted	Colophon stokoei	Barnard, 1929	species	https://www.speciesplus.net/species#/taxon_concepts/8217/legal
+NameUsage_cites3.csv	8423	xDD	accepted	Mauremys reevesii	(Gray, 1831)	species	https://www.speciesplus.net/species#/taxon_concepts/8423/legal
+NameUsage_cites3.csv	8519	x55	accepted	Colophon barnardi	Endrödy-Younga, 1988	species	https://www.speciesplus.net/species#/taxon_concepts/8519/legal
+NameUsage_cites3.csv	8521	x7P	accepted	Graptemys nigrinoda	Cagle, 1954	species	https://www.speciesplus.net/species#/taxon_concepts/8521/legal
+NameUsage_cites3.csv	8686	xGZ	accepted	Salamandra algira	Bedriaga, 1883	species	https://www.speciesplus.net/species#/taxon_concepts/8686/legal
+NameUsage_cites3.csv	8773	x55	accepted	Colophon montisatris	Endrödy-Younga, 1988	species	https://www.speciesplus.net/species#/taxon_concepts/8773/legal
+NameUsage_cites3.csv	8845	xNL	accepted	Viverricula indica	(É. Geoffroy Saint-Hilaire, 1803)	species	https://www.speciesplus.net/species#/taxon_concepts/8845/legal
+NameUsage_cites3.csv	8875	xC7	accepted	Micrurus diastema	(Duméril, Bibron & Duméril, 1854)	species	https://www.speciesplus.net/species#/taxon_concepts/8875/legal
+NameUsage_cites3.csv	8891	x55	accepted	Colophon oweni	Bartolozzi, 1995	species	https://www.speciesplus.net/species#/taxon_concepts/8891/legal
+NameUsage_cites3.csv	8897	xBN	accepted	Herpestes vitticollis	Bennett, 1835	species	https://www.speciesplus.net/species#/taxon_concepts/8897/legal
+NameUsage_cites3.csv	8987	xFY	accepted	Cuniculus paca	(Linnaeus, 1766)	species	https://www.speciesplus.net/species#/taxon_concepts/8987/legal
+NameUsage_cites3.csv	9049	x7P	accepted	Graptemys oculifera	(Baur, 1890)	species	https://www.speciesplus.net/species#/taxon_concepts/9049/legal
+NameUsage_cites3.csv	9146	xCW	accepted	Cabassous tatouay	(Desmarest, 1804)	species	https://www.speciesplus.net/species#/taxon_concepts/9146/legal
+NameUsage_cites3.csv	9172	xJ4	accepted	Nasua narica	(Linnaeus, 1766)	species	https://www.speciesplus.net/species#/taxon_concepts/9172/legal
+NameUsage_cites3.csv	9179	xDZ	accepted	Odobenus rosmarus	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/9179/legal
+NameUsage_cites3.csv	9244	xLN	accepted	Isostichopus fuscus	(Ludwig, 1875)	species	https://www.speciesplus.net/species#/taxon_concepts/9244/legal
+NameUsage_cites3.csv	9286	xD4	accepted	Baillonius bailloni	(Vieillot, 1819)	species	https://www.speciesplus.net/species#/taxon_concepts/9286/legal
+NameUsage_cites3.csv	9288	xKF	accepted	Carduelis flammea	(Linnaeus, 1758)	species	https://www.speciesplus.net/species#/taxon_concepts/9288/legal
+NameUsage_cites3.csv	9329	x8L	accepted	Marmota himalayana	(Hodgson, 1841)	species	https://www.speciesplus.net/species#/taxon_concepts/9329/legal
+NameUsage_cites3.csv	9412	xLB	accepted	Canis aureus	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/9412/legal
+NameUsage_cites3.csv	9428	x7R	accepted	Crax globulosa	Spix, 1825	species	https://www.speciesplus.net/species#/taxon_concepts/9428/legal
+NameUsage_cites3.csv	9466	xHY	accepted	Echinotriton andersoni	(Boulenger, 1892)	species	https://www.speciesplus.net/species#/taxon_concepts/9466/legal
+NameUsage_cites3.csv	9607	xNB	accepted	Carpodacus erythrinus	(Pallas, 1770)	species	https://www.speciesplus.net/species#/taxon_concepts/9607/legal
+NameUsage_cites3.csv	9613	xM3	accepted	Mellivora capensis	(Schreber, 1776)	species	https://www.speciesplus.net/species#/taxon_concepts/9613/legal
+NameUsage_cites3.csv	9775	x55	accepted	Colophon westwoodi	Gray, 1832	species	https://www.speciesplus.net/species#/taxon_concepts/9775/legal
+NameUsage_cites3.csv	98190	xB6	accepted	Calotes nigrilabris	Peters, 1860	species	https://www.speciesplus.net/species#/taxon_concepts/98190/legal
+NameUsage_cites3.csv	98191	xB6	accepted	Calotes pethiyagodai	Amarasinghe et al., 2014	species	https://www.speciesplus.net/species#/taxon_concepts/98191/legal
+NameUsage_cites3.csv	9831	xK7	accepted	Tetracerus quadricornis	(de Blainville, 1816)	species	https://www.speciesplus.net/species#/taxon_concepts/9831/legal
+NameUsage_cites3.csv	98395	x7F	accepted	Potamotrygon schuhmacheri	Castex, 1964	species	https://www.speciesplus.net/species#/taxon_concepts/98395/legal
+NameUsage_cites3.csv	98508	x37	accepted	Anolis agueroi		species	https://www.speciesplus.net/species#/taxon_concepts/98508/legal
+NameUsage_cites3.csv	98509	x37	accepted	Anolis baracoae		species	https://www.speciesplus.net/species#/taxon_concepts/98509/legal
+NameUsage_cites3.csv	98510	x37	accepted	Anolis barbatus		species	https://www.speciesplus.net/species#/taxon_concepts/98510/legal
+NameUsage_cites3.csv	98511	x37	accepted	Anolis chamaeleonides		species	https://www.speciesplus.net/species#/taxon_concepts/98511/legal
+NameUsage_cites3.csv	98512	x37	accepted	Anolis equestris		species	https://www.speciesplus.net/species#/taxon_concepts/98512/legal
+NameUsage_cites3.csv	98513	x37	accepted	Anolis guamuhaya		species	https://www.speciesplus.net/species#/taxon_concepts/98513/legal
+NameUsage_cites3.csv	98514	x37	accepted	Anolis luteogularis		species	https://www.speciesplus.net/species#/taxon_concepts/98514/legal
+NameUsage_cites3.csv	98515	x37	accepted	Anolis pigmaequestris		species	https://www.speciesplus.net/species#/taxon_concepts/98515/legal
+NameUsage_cites3.csv	98516	x37	accepted	Anolis porcus		species	https://www.speciesplus.net/species#/taxon_concepts/98516/legal
+NameUsage_cites3.csv	98518	x48	accepted	Sphaerodactylus armasi		species	https://www.speciesplus.net/species#/taxon_concepts/98518/legal
+NameUsage_cites3.csv	98519	x48	accepted	Sphaerodactylus celicara		species	https://www.speciesplus.net/species#/taxon_concepts/98519/legal
+NameUsage_cites3.csv	98520	x48	accepted	Sphaerodactylus dimorphicus		species	https://www.speciesplus.net/species#/taxon_concepts/98520/legal
+NameUsage_cites3.csv	98521	x48	accepted	Sphaerodactylus intermedius		species	https://www.speciesplus.net/species#/taxon_concepts/98521/legal
+NameUsage_cites3.csv	98522	x48	accepted	Sphaerodactylus oliveri		species	https://www.speciesplus.net/species#/taxon_concepts/98522/legal
+NameUsage_cites3.csv	98523	x48	accepted	Sphaerodactylus pimienta		species	https://www.speciesplus.net/species#/taxon_concepts/98523/legal
+NameUsage_cites3.csv	98524	x48	accepted	Sphaerodactylus ruibali		species	https://www.speciesplus.net/species#/taxon_concepts/98524/legal
+NameUsage_cites3.csv	98525	x48	accepted	Sphaerodactylus siboney		species	https://www.speciesplus.net/species#/taxon_concepts/98525/legal
+NameUsage_cites3.csv	98526	x48	accepted	Sphaerodactylus torrei		species	https://www.speciesplus.net/species#/taxon_concepts/98526/legal
+NameUsage_cites3.csv	98528	x48	accepted	Sphaerodactylus nigropunctatus alayoi		subspecies	https://www.speciesplus.net/species#/taxon_concepts/98528/legal
+NameUsage_cites3.csv	98529	x48	accepted	Sphaerodactylus nigropunctatus granti		subspecies	https://www.speciesplus.net/species#/taxon_concepts/98529/legal
+NameUsage_cites3.csv	98530	x48	accepted	Sphaerodactylus nigropunctatus lissodesmus		subspecies	https://www.speciesplus.net/species#/taxon_concepts/98530/legal
+NameUsage_cites3.csv	98531	x48	accepted	Sphaerodactylus nigropunctatus ocujal		subspecies	https://www.speciesplus.net/species#/taxon_concepts/98531/legal
+NameUsage_cites3.csv	98532	x48	accepted	Sphaerodactylus nigropunctatus strategus		subspecies	https://www.speciesplus.net/species#/taxon_concepts/98532/legal
+NameUsage_cites3.csv	98534	x48	accepted	Sphaerodactylus notatus atactus		subspecies	https://www.speciesplus.net/species#/taxon_concepts/98534/legal
+NameUsage_cites3.csv	99500	x46	accepted	Goniurosaurus kuroiwae	(Namiye, 1912)	species	https://www.speciesplus.net/species#/taxon_concepts/99500/legal
+NameUsage_cites3.csv	99501	x46	accepted	Goniurosaurus orientalis	(Maki, 1931)	species	https://www.speciesplus.net/species#/taxon_concepts/99501/legal
+NameUsage_cites3.csv	99502	x46	accepted	Goniurosaurus sengokui	(Honda & Ota, 2017)	species	https://www.speciesplus.net/species#/taxon_concepts/99502/legal
+NameUsage_cites3.csv	99503	x46	accepted	Goniurosaurus splendens	(Nakamura & Uéno, 1959)	species	https://www.speciesplus.net/species#/taxon_concepts/99503/legal
+NameUsage_cites3.csv	99504	x46	accepted	Goniurosaurus toyamai	Grismer, Ota & Tanaka, 1994	species	https://www.speciesplus.net/species#/taxon_concepts/99504/legal
+NameUsage_cites3.csv	99505	x46	accepted	Goniurosaurus yamashinae	(Okada, 1936)	species	https://www.speciesplus.net/species#/taxon_concepts/99505/legal
+NameUsage_cites3.csv	99506	xB6	accepted	Calotes ceylonensis	Müller, 1887	species	https://www.speciesplus.net/species#/taxon_concepts/99506/legal
+NameUsage_cites3.csv	99507	xB6	accepted	Calotes desilvai	Bahir & Maduwage, 2005	species	https://www.speciesplus.net/species#/taxon_concepts/99507/legal
+NameUsage_cites3.csv	99508	xB6	accepted	Calotes liocephalus	Günther, 1872	species	https://www.speciesplus.net/species#/taxon_concepts/99508/legal
+NameUsage_cites3.csv	99509	xB6	accepted	Calotes liolepis	Boulenger, 1885	species	https://www.speciesplus.net/species#/taxon_concepts/99509/legal
+NameUsage_cites3.csv	99510	xB6	accepted	Calotes manamendrai	Amarasinghe & Karunarathna, 2014	species	https://www.speciesplus.net/species#/taxon_concepts/99510/legal
+NameUsage_cites3.csv	99544	xJJ	accepted	Galerida cristata	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99544/legal
+NameUsage_cites3.csv	99545	xMP	accepted	Lullula arborea	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99545/legal
+NameUsage_cites3.csv	99546	x68	accepted	Melanocorypha calandra	Linnaeus, 1766	species	https://www.speciesplus.net/species#/taxon_concepts/99546/legal
+NameUsage_cites3.csv	99547	xD8	accepted	Emberiza citrinella	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99547/legal
+NameUsage_cites3.csv	99548	xD8	accepted	Emberiza hortulana	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99548/legal
+NameUsage_cites3.csv	99550	xGJ	accepted	Erithacus rubecula	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99550/legal
+NameUsage_cites3.csv	99552	xN6	accepted	Ficedula parva	Bechstein, 1792	species	https://www.speciesplus.net/species#/taxon_concepts/99552/legal
+NameUsage_cites3.csv	99553	x8V	accepted	Luscinia svecica	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99553/legal
+NameUsage_cites3.csv	99554	x8V	accepted	Luscinia luscinia	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99554/legal
+NameUsage_cites3.csv	99555	x8V	accepted	Luscinia megarhynchos	C.L. Brehm, 1831	species	https://www.speciesplus.net/species#/taxon_concepts/99555/legal
+NameUsage_cites3.csv	99557	x6X	accepted	Monticola saxatilis	Linnaeus, 1766	species	https://www.speciesplus.net/species#/taxon_concepts/99557/legal
+NameUsage_cites3.csv	99558	xDS	accepted	Turdus merula	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99558/legal
+NameUsage_cites3.csv	99559	xDS	accepted	Turdus philomelos	C.L. Brehm, 1831	species	https://www.speciesplus.net/species#/taxon_concepts/99559/legal
+NameUsage_cites3.csv	99560	xBB	accepted	Oriolus oriolus	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99560/legal
+NameUsage_cites3.csv	99561	xGQ	accepted	Troglodytes troglodytes	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99561/legal
+NameUsage_cites3.csv	99570	xBQ	accepted	Sylvia atricapilla	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99570/legal
+NameUsage_cites3.csv	99571	xBQ	accepted	Sylvia borin	Boddaert, 1783	species	https://www.speciesplus.net/species#/taxon_concepts/99571/legal
+NameUsage_cites3.csv	99572	xBQ	accepted	Sylvia curruca	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99572/legal
+NameUsage_cites3.csv	99575	x9C	accepted	Hippolais icterina	Vieillot, 1817	species	https://www.speciesplus.net/species#/taxon_concepts/99575/legal
+NameUsage_cites3.csv	99576	xFK	accepted	Parus ater	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99576/legal
+NameUsage_cites3.csv	99577	xBQ	accepted	Sylvia nisoria	Bechstein, 1795	species	https://www.speciesplus.net/species#/taxon_concepts/99577/legal
+NameUsage_cites3.csv	99579	x84	accepted	Alauda arvensis	Linnaeus, 1758	species	https://www.speciesplus.net/species#/taxon_concepts/99579/legal
+NameUsage_cites3.csv	x4		accepted	Plantae		kingdom	
+NameUsage_cites3.csv	x33	xZ	accepted	Phyllurus		genus	
+NameUsage_cites3.csv	x35	xS	accepted	Polychrotidae		family	
+NameUsage_cites3.csv	x37	x35	accepted	Anolis		genus	
+NameUsage_cites3.csv	x39	x4	accepted	Caryophyllales		order	
+NameUsage_cites3.csv	x3C	x39	accepted	Aizoaceae		family	
+NameUsage_cites3.csv	x3F	x3C	accepted	Conophytum		genus	
+NameUsage_cites3.csv	x3H	xS	accepted	Scincidae		family	
+NameUsage_cites3.csv	x3K	x3H	accepted	Egernia		genus	
+NameUsage_cites3.csv	x3M	xN	accepted	Mammalia		class	
+NameUsage_cites3.csv	x3P	x3M	accepted	Artiodactyla		order	
+NameUsage_cites3.csv	x3R	x3P	accepted	Bovidae		family	
+NameUsage_cites3.csv	x3T	x3R	accepted	Boselaphus		genus	
+NameUsage_cites3.csv	x3W	x4	accepted	Violales		order	
+NameUsage_cites3.csv	x3Y	x3W	accepted	Passifloraceae		family	
+NameUsage_cites3.csv	x42	x3Y	accepted	Adenia		genus	
+NameUsage_cites3.csv	x44	xS	accepted	Eublepharidae		family	
+NameUsage_cites3.csv	x46	x44	accepted	Goniurosaurus		genus	
+NameUsage_cites3.csv	x48	xZ	accepted	Sphaerodactylus		genus	
+NameUsage_cites3.csv	x4B	xZ	accepted	Nephrurus		genus	
+NameUsage_cites3.csv	x4D	xN	accepted	Aves		class	
+NameUsage_cites3.csv	x4G	x4D	accepted	Galliformes		order	
+NameUsage_cites3.csv	x4J	x4G	accepted	Phasianidae		family	
+NameUsage_cites3.csv	x4L	x4J	accepted	Tragopan		genus	
+NameUsage_cites3.csv	x4N	x3M	accepted	Carnivora		order	
+NameUsage_cites3.csv	x4Q	x4N	accepted	Mustelidae		family	
+NameUsage_cites3.csv	x4S	x4Q	accepted	Martes		genus	
+NameUsage_cites3.csv	x4V	xL	accepted	Arthropoda		phylum	
+NameUsage_cites3.csv	x4X	x4V	accepted	Insecta		class	
+NameUsage_cites3.csv	x4Z	x4X	accepted	Coleoptera		order	
+NameUsage_cites3.csv	x6	x4	accepted	Geraniales		order	
+NameUsage_cites3.csv	x53	x4Z	accepted	Lucanidae		family	
+NameUsage_cites3.csv	x55	x53	accepted	Colophon		genus	
+NameUsage_cites3.csv	x57	xV	accepted	Tympanocryptis		genus	
+NameUsage_cites3.csv	x59	x4G	accepted	Cracidae		family	
+NameUsage_cites3.csv	x5C	x59	accepted	Pauxi		genus	
+NameUsage_cites3.csv	x5F	xZ	accepted	Dactylocnemis		genus	
+NameUsage_cites3.csv	x5H	xS	accepted	Lacertidae		family	
+NameUsage_cites3.csv	x5K	x5H	accepted	Gallotia		genus	
+NameUsage_cites3.csv	x5M	x3M	accepted	Chiroptera		order	
+NameUsage_cites3.csv	x5P	x5M	accepted	Phyllostomidae		family	
+NameUsage_cites3.csv	x5R	x5P	accepted	Platyrrhinus		genus	
+NameUsage_cites3.csv	x5T	xZ	accepted	Woodworthia		genus	
+NameUsage_cites3.csv	x5W	x4	accepted	Rosales		order	
+NameUsage_cites3.csv	x5Y	x5W	accepted	Crassulaceae		family	
+NameUsage_cites3.csv	x62	x5Y	accepted	Tylecodon		genus	
+NameUsage_cites3.csv	x64	x4D	accepted	Passeriformes		order	
+NameUsage_cites3.csv	x66	x64	accepted	Alaudidae		family	
+NameUsage_cites3.csv	x68	x66	accepted	Melanocorypha		genus	
+NameUsage_cites3.csv	x6B	xL	accepted	Cnidaria		phylum	
+NameUsage_cites3.csv	x6D	x6B	accepted	Anthozoa		class	
+NameUsage_cites3.csv	x6G	x6D	accepted	Gorgonacea		order	
+NameUsage_cites3.csv	x6J	x6G	accepted	Coralliidae		family	
+NameUsage_cites3.csv	x6L	x6J	accepted	Pleurocorallium		genus	
+NameUsage_cites3.csv	x6N	x3P	accepted	Cervidae		family	
+NameUsage_cites3.csv	x6Q	x6N	accepted	Cervus		genus	
+NameUsage_cites3.csv	x6S	xZ	accepted	Saltuarius		genus	
+NameUsage_cites3.csv	x6V	x64	accepted	Muscicapidae		family	
+NameUsage_cites3.csv	x6X	x6V	accepted	Monticola		genus	
+NameUsage_cites3.csv	x6Z	xQ	accepted	Serpentes		order	
+NameUsage_cites3.csv	x8	x6	accepted	Geraniaceae		family	
+NameUsage_cites3.csv	x73	x6Z	accepted	Colubridae		family	
+NameUsage_cites3.csv	x75	x73	accepted	Atretium		genus	
+NameUsage_cites3.csv	x77	xN	accepted	Elasmobranchii		class	
+NameUsage_cites3.csv	x79	x77	accepted	Myliobatiformes		order	
+NameUsage_cites3.csv	x7C	x79	accepted	Potamotrygonidae		family	
+NameUsage_cites3.csv	x7F	x7C	accepted	Potamotrygon		genus	
+NameUsage_cites3.csv	x7H	xZ	accepted	Strophurus		genus	
+NameUsage_cites3.csv	x7K	xQ	accepted	Testudines		order	
+NameUsage_cites3.csv	x7M	x7K	accepted	Emydidae		family	
+NameUsage_cites3.csv	x7P	x7M	accepted	Graptemys		genus	
+NameUsage_cites3.csv	x7R	x59	accepted	Crax		genus	
+NameUsage_cites3.csv	x7T	x3H	accepted	Tiliqua		genus	
+NameUsage_cites3.csv	x7W	x4	accepted	Papaverales		order	
+NameUsage_cites3.csv	x7Y	x7W	accepted	Papaveraceae		family	
+NameUsage_cites3.csv	x82	x7Y	accepted	Meconopsis		genus	
+NameUsage_cites3.csv	x84	x66	accepted	Alauda		genus	
+NameUsage_cites3.csv	x86	x6J	accepted	Corallium		genus	
+NameUsage_cites3.csv	x88	x64	accepted	Cotingidae		family	
+NameUsage_cites3.csv	x8B	x88	accepted	Cephalopterus		genus	
+NameUsage_cites3.csv	x8D	x73	accepted	Xenochrophis		genus	
+NameUsage_cites3.csv	x8G	x3M	accepted	Rodentia		order	
+NameUsage_cites3.csv	x8J	x8G	accepted	Sciuridae		family	
+NameUsage_cites3.csv	x8L	x8J	accepted	Marmota		genus	
+NameUsage_cites3.csv	x8N	x4N	accepted	Viverridae		family	
+NameUsage_cites3.csv	x8Q	x8N	accepted	Viverra		genus	
+NameUsage_cites3.csv	x8S	xZ	accepted	Ailuronyx		genus	
+NameUsage_cites3.csv	x8V	x6V	accepted	Luscinia		genus	
+NameUsage_cites3.csv	x8X	xN	accepted	Actinopteri		class	
+NameUsage_cites3.csv	x8Z	x8X	accepted	Perciformes		order	
+NameUsage_cites3.csv	xB	x8	accepted	Monsonia		genus	
+NameUsage_cites3.csv	x93	x8Z	accepted	Pomacanthidae		family	
+NameUsage_cites3.csv	x95	x93	accepted	Holacanthus		genus	
+NameUsage_cites3.csv	x97	x4N	accepted	Canidae		family	
+NameUsage_cites3.csv	x99	x97	accepted	Vulpes		genus	
+NameUsage_cites3.csv	x9C	x6V	accepted	Hippolais		genus	
+NameUsage_cites3.csv	x9F	x4D	accepted	Columbiformes		order	
+NameUsage_cites3.csv	x9H	x9F	accepted	Columbidae		family	
+NameUsage_cites3.csv	x9K	x9H	accepted	Nesoenas		genus	
+NameUsage_cites3.csv	x9M	xG	accepted	Crassothonna		genus	
+NameUsage_cites3.csv	x9P	x4	accepted	Trochodendrales		order	
+NameUsage_cites3.csv	x9R	x9P	accepted	Trochodendraceae		family	
+NameUsage_cites3.csv	x9T	x9R	accepted	Tetracentron		genus	
+NameUsage_cites3.csv	x9W	x4	accepted	Gentianales		order	
+NameUsage_cites3.csv	x9Y	x9W	accepted	Apocynaceae		family	
+NameUsage_cites3.csv	xB2	x9Y	accepted	Raphionacme		genus	
+NameUsage_cites3.csv	xB4	x4J	accepted	Pavo		genus	
+NameUsage_cites3.csv	xB6	xV	accepted	Calotes		genus	
+NameUsage_cites3.csv	xB8	x64	accepted	Oriolidae		family	
+NameUsage_cites3.csv	xBB	xB8	accepted	Oriolus		genus	
+NameUsage_cites3.csv	xBD	x4D	accepted	Anseriformes		order	
+NameUsage_cites3.csv	xBG	xBD	accepted	Anatidae		family	
+NameUsage_cites3.csv	xBJ	xBG	accepted	Dendrocygna		genus	
+NameUsage_cites3.csv	xBL	x4N	accepted	Herpestidae		family	
+NameUsage_cites3.csv	xBN	xBL	accepted	Herpestes		genus	
+NameUsage_cites3.csv	xBQ	x6V	accepted	Sylvia		genus	
+NameUsage_cites3.csv	xBS	x8N	accepted	Paguma		genus	
+NameUsage_cites3.csv	xBV	xZ	accepted	Mokopirirakau		genus	
+NameUsage_cites3.csv	xBX	x8N	accepted	Paradoxurus		genus	
+NameUsage_cites3.csv	xBZ	x8	accepted	Pelargonium		genus	
+NameUsage_cites3.csv	xD	x4	accepted	Asterales		order	
+NameUsage_cites3.csv	xC3	x3R	accepted	Antilope		genus	
+NameUsage_cites3.csv	xC5	x6Z	accepted	Elapidae		family	
+NameUsage_cites3.csv	xC7	xC5	accepted	Micrurus		genus	
+NameUsage_cites3.csv	xC9	x4	accepted	Pinales		order	
+NameUsage_cites3.csv	xCC	xC9	accepted	Pinaceae		family	
+NameUsage_cites3.csv	xCF	xCC	accepted	Pinus		genus	
+NameUsage_cites3.csv	xCH	x64	accepted	Fringillidae		family	
+NameUsage_cites3.csv	xCK	xCH	accepted	Serinus		genus	
+NameUsage_cites3.csv	xCM	xC9	accepted	Gnetaceae		family	
+NameUsage_cites3.csv	xCP	xCM	accepted	Gnetum		genus	
+NameUsage_cites3.csv	xCR	x3M	accepted	Cingulata		order	
+NameUsage_cites3.csv	xCT	xCR	accepted	Dasypodidae		family	
+NameUsage_cites3.csv	xCW	xCT	accepted	Cabassous		genus	
+NameUsage_cites3.csv	xCY	x4D	accepted	Piciformes		order	
+NameUsage_cites3.csv	xD2	xCY	accepted	Ramphastidae		family	
+NameUsage_cites3.csv	xD4	xD2	accepted	Baillonius		genus	
+NameUsage_cites3.csv	xD6	x64	accepted	Emberizidae		family	
+NameUsage_cites3.csv	xD8	xD6	accepted	Emberiza		genus	
+NameUsage_cites3.csv	xDB	x7K	accepted	Geoemydidae		family	
+NameUsage_cites3.csv	xDD	xDB	accepted	Mauremys		genus	
+NameUsage_cites3.csv	xDG	xN	accepted	Amphibia		class	
+NameUsage_cites3.csv	xDJ	xDG	accepted	Anura		order	
+NameUsage_cites3.csv	xDL	xDJ	accepted	Calyptocephalellidae		family	
+NameUsage_cites3.csv	xDN	xDL	accepted	Calyptocephalella		genus	
+NameUsage_cites3.csv	xDQ	xZ	accepted	Hoplodactylus		genus	
+NameUsage_cites3.csv	xDS	x6V	accepted	Turdus		genus	
+NameUsage_cites3.csv	xDV	x3R	accepted	Capra		genus	
+NameUsage_cites3.csv	xDX	x4N	accepted	Odobenidae		family	
+NameUsage_cites3.csv	xDZ	xDX	accepted	Odobenus		genus	
+NameUsage_cites3.csv	xG	xD	accepted	Compositae		family	
+NameUsage_cites3.csv	xF3	x4X	accepted	Lepidoptera		order	
+NameUsage_cites3.csv	xF5	xF3	accepted	Nymphalidae		family	
+NameUsage_cites3.csv	xF7	xF5	accepted	Prepona		genus	
+NameUsage_cites3.csv	xF9	x8N	accepted	Arctictis		genus	
+NameUsage_cites3.csv	xFC	xCH	accepted	Pyrrhula		genus	
+NameUsage_cites3.csv	xFF	x8N	accepted	Civettictis		genus	
+NameUsage_cites3.csv	xFH	x64	accepted	Paridae		family	
+NameUsage_cites3.csv	xFK	xFH	accepted	Parus		genus	
+NameUsage_cites3.csv	xFM	x6Z	accepted	Viperidae		family	
+NameUsage_cites3.csv	xFP	xFM	accepted	Daboia		genus	
+NameUsage_cites3.csv	xFR	x6N	accepted	Mazama		genus	
+NameUsage_cites3.csv	xFT	xZ	accepted	Tukutuku		genus	
+NameUsage_cites3.csv	xFW	x8G	accepted	Cuniculidae		family	
+NameUsage_cites3.csv	xFY	xFW	accepted	Cuniculus		genus	
+NameUsage_cites3.csv	xG2	x4	accepted	Fagales		order	
+NameUsage_cites3.csv	xG4	xG2	accepted	Fagaceae		family	
+NameUsage_cites3.csv	xG6	xG4	accepted	Quercus		genus	
+NameUsage_cites3.csv	xG8	x4N	accepted	Hyaenidae		family	
+NameUsage_cites3.csv	xGB	xG8	accepted	Proteles		genus	
+NameUsage_cites3.csv	xGD	x8G	accepted	Erethizontidae		family	
+NameUsage_cites3.csv	xGG	xGD	accepted	Sphiggurus		genus	
+NameUsage_cites3.csv	xGJ	x6V	accepted	Erithacus		genus	
+NameUsage_cites3.csv	xGL	xZ	accepted	Underwoodisaurus		genus	
+NameUsage_cites3.csv	xGN	x64	accepted	Troglodytidae		family	
+NameUsage_cites3.csv	xGQ	xGN	accepted	Troglodytes		genus	
+NameUsage_cites3.csv	xGS	xD6	accepted	Melopyrrha		genus	
+NameUsage_cites3.csv	xGV	xDG	accepted	Caudata		order	
+NameUsage_cites3.csv	xGX	xGV	accepted	Salamandridae		family	
+NameUsage_cites3.csv	xGZ	xGX	accepted	Salamandra		genus	
+NameUsage_cites3.csv	xJ	xG	accepted	Othonna		genus	
+NameUsage_cites3.csv	xH3	x4	accepted	Lamiales		order	
+NameUsage_cites3.csv	xH5	xH3	accepted	Oleaceae		family	
+NameUsage_cites3.csv	xH7	xH5	accepted	Fraxinus		genus	
+NameUsage_cites3.csv	xH9	x4D	accepted	Falconiformes		order	
+NameUsage_cites3.csv	xHC	xH9	accepted	Cathartidae		family	
+NameUsage_cites3.csv	xHF	xHC	accepted	Sarcoramphus		genus	
+NameUsage_cites3.csv	xHH	x4V	accepted	Arachnida		class	
+NameUsage_cites3.csv	xHK	xHH	accepted	Araneae		order	
+NameUsage_cites3.csv	xHM	xHK	accepted	Theraphosidae		family	
+NameUsage_cites3.csv	xHP	xHM	accepted	Caribena		genus	
+NameUsage_cites3.csv	xHR	xF3	accepted	Papilionidae		family	
+NameUsage_cites3.csv	xHT	xHR	accepted	Papilio		genus	
+NameUsage_cites3.csv	xHW	xD2	accepted	Pteroglossus		genus	
+NameUsage_cites3.csv	xHY	xGX	accepted	Echinotriton		genus	
+NameUsage_cites3.csv	xJ2	x4N	accepted	Procyonidae		family	
+NameUsage_cites3.csv	xJ4	xJ2	accepted	Nasua		genus	
+NameUsage_cites3.csv	xJ6	xFM	accepted	Crotalus		genus	
+NameUsage_cites3.csv	xJ8	x4J	accepted	Meleagris		genus	
+NameUsage_cites3.csv	xJB	xJ2	accepted	Potos		genus	
+NameUsage_cites3.csv	xJD	xZ	accepted	Carphodactylus		genus	
+NameUsage_cites3.csv	xJG	x4Q	accepted	Eira		genus	
+NameUsage_cites3.csv	xJJ	x66	accepted	Galerida		genus	
+NameUsage_cites3.csv	xJL	xCY	accepted	Capitonidae		family	
+NameUsage_cites3.csv	xJN	xJL	accepted	Semnornis		genus	
+NameUsage_cites3.csv	xJQ	x4Q	accepted	Mustela		genus	
+NameUsage_cites3.csv	xJS	x4	accepted	Magnoliales		order	
+NameUsage_cites3.csv	xJV	xJS	accepted	Magnoliaceae		family	
+NameUsage_cites3.csv	xJX	xJV	accepted	Magnolia		genus	
+NameUsage_cites3.csv	xJZ	xC9	accepted	Podocarpaceae		family	
+NameUsage_cites3.csv	xL		accepted	Animalia		kingdom	
+NameUsage_cites3.csv	xK3	xJZ	accepted	Podocarpus		genus	
+NameUsage_cites3.csv	xK5	xF5	accepted	Morpho		genus	
+NameUsage_cites3.csv	xK7	x3R	accepted	Tetracerus		genus	
+NameUsage_cites3.csv	xK9	xGV	accepted	Cryptobranchidae		family	
+NameUsage_cites3.csv	xKC	xK9	accepted	Cryptobranchus		genus	
+NameUsage_cites3.csv	xKF	xCH	accepted	Carduelis		genus	
+NameUsage_cites3.csv	xKH	xZ	accepted	Toropuku		genus	
+NameUsage_cites3.csv	xKK	xCH	accepted	Loxia		genus	
+NameUsage_cites3.csv	xKM	xZ	accepted	Uvidicolus		genus	
+NameUsage_cites3.csv	xKP	xV	accepted	Intellagama		genus	
+NameUsage_cites3.csv	xKR	x3M	accepted	Pilosa		order	
+NameUsage_cites3.csv	xKT	xKR	accepted	Myrmecophagidae		family	
+NameUsage_cites3.csv	xKW	xKT	accepted	Tamandua		genus	
+NameUsage_cites3.csv	xKY	x59	accepted	Penelope		genus	
+NameUsage_cites3.csv	xL2	x4D	accepted	Charadriiformes		order	
+NameUsage_cites3.csv	xL4	xL2	accepted	Burhinidae		family	
+NameUsage_cites3.csv	xL6	xL4	accepted	Burhinus		genus	
+NameUsage_cites3.csv	xL8	xD6	accepted	Tiaris		genus	
+NameUsage_cites3.csv	xLB	x97	accepted	Canis		genus	
+NameUsage_cites3.csv	xLD	xL	accepted	Echinodermata		phylum	
+NameUsage_cites3.csv	xLG	xLD	accepted	Holothuroidea		class	
+NameUsage_cites3.csv	xLJ	xLG	accepted	Aspidochirotida		order	
+NameUsage_cites3.csv	xLL	xLJ	accepted	Stichopodidae		family	
+NameUsage_cites3.csv	xLN	xLL	accepted	Isostichopus		genus	
+NameUsage_cites3.csv	xLQ	x39	accepted	Portulacaceae		family	
+NameUsage_cites3.csv	xLS	xLQ	accepted	Portulacaria		genus	
+NameUsage_cites3.csv	xLV	x6V	accepted	Terpsiphone		genus	
+NameUsage_cites3.csv	xLX	xD2	accepted	Ramphastos		genus	
+NameUsage_cites3.csv	xLZ	x73	accepted	Cerberus		genus	
+NameUsage_cites3.csv	xN	xL	accepted	Chordata		phylum	
+NameUsage_cites3.csv	xM3	x4Q	accepted	Mellivora		genus	
+NameUsage_cites3.csv	xM5	x4J	accepted	Pucrasia		genus	
+NameUsage_cites3.csv	xM7	x3R	accepted	Pseudois		genus	
+NameUsage_cites3.csv	xM9	xGV	accepted	Hynobiidae		family	
+NameUsage_cites3.csv	xMC	xM9	accepted	Hynobius		genus	
+NameUsage_cites3.csv	xMF	x6N	accepted	Axis		genus	
+NameUsage_cites3.csv	xMH	xD2	accepted	Selenidera		genus	
+NameUsage_cites3.csv	xMK	x3R	accepted	Bubalus		genus	
+NameUsage_cites3.csv	xMM	xZ	accepted	Orraya		genus	
+NameUsage_cites3.csv	xMP	x66	accepted	Lullula		genus	
+NameUsage_cites3.csv	xMR	x8G	accepted	Dasyproctidae		family	
+NameUsage_cites3.csv	xMT	xMR	accepted	Dasyprocta		genus	
+NameUsage_cites3.csv	xMW	x6V	accepted	Acrocephalus		genus	
+NameUsage_cites3.csv	xMY	x4	accepted	Arecales		order	
+NameUsage_cites3.csv	xN2	xMY	accepted	Palmae		family	
+NameUsage_cites3.csv	xN4	xN2	accepted	Lodoicea		genus	
+NameUsage_cites3.csv	xN6	x6V	accepted	Ficedula		genus	
+NameUsage_cites3.csv	xN8	x6N	accepted	Odocoileus		genus	
+NameUsage_cites3.csv	xNB	xCH	accepted	Carpodacus		genus	
+NameUsage_cites3.csv	xND	x7C	accepted	Paratrygon		genus	
+NameUsage_cites3.csv	xNG	x59	accepted	Penelopina		genus	
+NameUsage_cites3.csv	xNJ	x7M	accepted	Emys		genus	
+NameUsage_cites3.csv	xNL	x8N	accepted	Viverricula		genus	
+NameUsage_cites3.csv	xNN	x59	accepted	Ortalis		genus	
+NameUsage_cites3.csv	xNQ	x3C	accepted	Mestoklema		genus	
+NameUsage_cites3.csv	xNS	x3R	accepted	Gazella		genus	
+NameUsage_cites3.csv	xNV	xF5	accepted	Agrias		genus	
+NameUsage_cites3.csv	xNX	x4J	accepted	Lophura		genus	
+NameUsage_cites3.csv	xQ	xN	accepted	Reptilia		class	
+NameUsage_cites3.csv	xS	xQ	accepted	Sauria		order	
+NameUsage_cites3.csv	xV	xS	accepted	Agamidae		family	
+NameUsage_cites3.csv	xX	xV	accepted	Ctenophorus		genus	
+NameUsage_cites3.csv	xZ	xS	accepted	Gekkonidae		family	
+output-CITES3-synonyms.csv	3199SYN1	3199	synonym	Graptemys kohnii (Baur, 1890)			
+output-CITES3-synonyms.csv	3199SYN2	3199	synonym	Malacoclemmys kohnii Baur, 1890			
+output-CITES3-synonyms.csv	3199SYN3	3199	synonym	Graptemys pseudogeographica kohnii (Baur, 1890)			
+output-CITES3-synonyms.csv	3199SYN4	3199	synonym	Emys pseudogeographica Gray, 1831			
+output-CITES3-synonyms.csv	3218SYN5	3218	synonym	Hyelaphus porcinus (Zimmermann, 1780)			
+output-CITES3-synonyms.csv	3218SYN6	3218	synonym	Cervus porcinus Zimmermann, 1777			
+output-CITES3-synonyms.csv	3270SYN7	3270	synonym	Agriocharis ocellata (Cuvier, 1820)			
+output-CITES3-synonyms.csv	3318SYN8	3318	synonym	Charadrius bistriatus Wagler, 1829			
+output-CITES3-synonyms.csv	3361SYN9	3361	synonym	Emys lutaria taurica Mehnert, 1890			
+output-CITES3-synonyms.csv	3361SYN10	3361	synonym	Testudo orbicularis Linnaeus, 1758			
+output-CITES3-synonyms.csv	3361SYN11	3361	synonym	Testudo terrestris Garsault, 1764			
+output-CITES3-synonyms.csv	3361SYN12	3361	synonym	Testudo europaea Schneider, 1783			
+output-CITES3-synonyms.csv	3361SYN13	3361	synonym	Testudo pulchella Schoepff, 1801			
+output-CITES3-synonyms.csv	3361SYN14	3361	synonym	Emys europaea concolor Dürigen, 1897			
+output-CITES3-synonyms.csv	3361SYN15	3361	synonym	Emys orbicularis colchica Fritz, 1994			
+output-CITES3-synonyms.csv	3361SYN16	3361	synonym	Emys orbicularis luteofusca Fritz, 1989			
+output-CITES3-synonyms.csv	3361SYN17	3361	synonym	Emys orbicularis aralensis Nikolsky, 1915			
+output-CITES3-synonyms.csv	3361SYN18	3361	synonym	Emys europaea punctata Dürigen, 1897			
+output-CITES3-synonyms.csv	3361SYN19	3361	synonym	Testudo lutaria Linnaeus, 1758			
+output-CITES3-synonyms.csv	3361SYN20	3361	synonym	Emys europaea sparsa Dürigen, 1897			
+output-CITES3-synonyms.csv	3507SYN21	3507	synonym	Vultur papa Linnaeus, 1758			
+output-CITES3-synonyms.csv	3685SYN22	3685	synonym	Viverra megaspila civettina Blyth, 1862			
+output-CITES3-synonyms.csv	3745SYN23	3745	synonym	Penelope niger Fraser, 1852			
+output-CITES3-synonyms.csv	3839SYN24	3839	synonym	Phasianus leucomelanos Latham, 1790			
+output-CITES3-synonyms.csv	3839SYN25	3839	synonym	Gennaeus leucomelanos (Latham, 1790)			
+output-CITES3-synonyms.csv	4177SYN26	4177	synonym	Hurria rynchops (Schneider, 1799)			
+output-CITES3-synonyms.csv	4282SYN27	4282	synonym	Paradoxurus jorandensis Gayen, 1988			
+output-CITES3-synonyms.csv	4357SYN28	4357	synonym	Natrix piscator (Schneider, 1799)			
+output-CITES3-synonyms.csv	4357SYN29	4357	synonym	Xenochrophis flavipunctatum (Hallowell, 1860)			
+output-CITES3-synonyms.csv	4693SYN30	4693	synonym	Dasyprocta variegata Goldman, 1913			
+output-CITES3-synonyms.csv	5113SYN31	5113	synonym	Paracrotalus terrificus (Laurenti, 1768)			
+output-CITES3-synonyms.csv	5113SYN32	5113	synonym	Crotalus pifanorum Sandner-Montilla, 1980			
+output-CITES3-synonyms.csv	5113SYN33	5113	synonym	Crotalus exalbidus Boddaert, 1778			
+output-CITES3-synonyms.csv	5113SYN34	5113	synonym	Caudisona orientalis Laurenti, 1768			
+output-CITES3-synonyms.csv	5113SYN35	5113	synonym	Urocrotalon durissus (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	5113SYN36	5113	synonym	Caudisona gronovii Laurenti, 1768			
+output-CITES3-synonyms.csv	5113SYN37	5113	synonym	Caudisona terrifica Laurenti, 1768			
+output-CITES3-synonyms.csv	5113SYN38	5113	synonym	Crotalus basiliscus totonacus (Cope, 1864)			
+output-CITES3-synonyms.csv	5113SYN39	5113	synonym	Crotalus immaculatus Latreille, 1801			
+output-CITES3-synonyms.csv	5113SYN40	5113	synonym	Crotalus maricelae García Pérez, 1995			
+output-CITES3-synonyms.csv	5113SYN41	5113	synonym	Crotalus gronovii (Laurenti, 1768)			
+output-CITES3-synonyms.csv	5113SYN42	5113	synonym	Crotalus simus Latreille, 1801			
+output-CITES3-synonyms.csv	5113SYN43	5113	synonym	Crotalus strepitans Daudin, 1803			
+output-CITES3-synonyms.csv	5113SYN44	5113	synonym	Uropsophus durissus (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	5113SYN45	5113	synonym	Crotalus loeflingii Humboldt, 1813			
+output-CITES3-synonyms.csv	5113SYN46	5113	synonym	Crotalus totonacus Gloyd & Kauffeld, 1940			
+output-CITES3-synonyms.csv	5113SYN47	5113	synonym	Crotalus cascavella Wagler, 1824			
+output-CITES3-synonyms.csv	5113SYN48	5113	synonym	Crotalus pulvis Ditmars, 1905			
+output-CITES3-synonyms.csv	5113SYN49	5113	synonym	Caudisona durissa (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	5113SYN50	5113	synonym	Crotalus terrificus (Laurenti, 1768)			
+output-CITES3-synonyms.csv	5113SYN51	5113	synonym	Crotalus cumanensis Humboldt, 1813			
+output-CITES3-synonyms.csv	5113SYN52	5113	synonym	Crotalus dryinas Linnaeus, 1758			
+output-CITES3-synonyms.csv	5113SYN53	5113	synonym	Crotalus orientalis (Laurenti, 1768)			
+output-CITES3-synonyms.csv	5264SYN54	5264	synonym	Graptemys pseudogeographica ouachitensis Cagle, 1953			
+output-CITES3-synonyms.csv	5264SYN55	5264	synonym	Graptemys sabinensis Vetter, 2004			
+output-CITES3-synonyms.csv	5310SYN56	5310	synonym	Acanthis hornemanni (Holboell, 1843)			
+output-CITES3-synonyms.csv	5347SYN57	5347	synonym	Protonopsis fusca Gray, 1850			
+output-CITES3-synonyms.csv	5347SYN58	5347	synonym	Triton alleghaniensis Gray, 1850			
+output-CITES3-synonyms.csv	5347SYN59	5347	synonym	Menopoma gigantea Tschudi, 1838			
+output-CITES3-synonyms.csv	5347SYN60	5347	synonym	Cryptobranchus alleghaniensis Van der Hoeven, 1838			
+output-CITES3-synonyms.csv	5347SYN61	5347	synonym	Amphiuma (menopoma) gigantea Van der Hoeven, 1833			
+output-CITES3-synonyms.csv	5347SYN62	5347	synonym	Eurycea mucronata Rafinesque, 1832			
+output-CITES3-synonyms.csv	5347SYN63	5347	synonym	Abranchus horrida Gray, 1831			
+output-CITES3-synonyms.csv	5347SYN64	5347	synonym	Salamandrops giganteus Wagler, 1830			
+output-CITES3-synonyms.csv	5347SYN65	5347	synonym	Menopoma alleghaniensis Harlan, 1825			
+output-CITES3-synonyms.csv	5347SYN66	5347	synonym	Protonopsis horrida Barton In LeConte, 1824			
+output-CITES3-synonyms.csv	5347SYN67	5347	synonym	Salamandra alleghaniensis Gray, 1850			
+output-CITES3-synonyms.csv	5347SYN68	5347	synonym	Urotropis mucronata Rafinesque, 1822			
+output-CITES3-synonyms.csv	5347SYN69	5347	synonym	Cryptobranchus salamandroides Leuckart, 1821			
+output-CITES3-synonyms.csv	5347SYN70	5347	synonym	Molge gigantea Merrem, 1820			
+output-CITES3-synonyms.csv	5347SYN71	5347	synonym	Triton alleganiensis Oppel, 1811			
+output-CITES3-synonyms.csv	5347SYN72	5347	synonym	Salamandra horrida Barton, 1808			
+output-CITES3-synonyms.csv	5347SYN73	5347	synonym	Salamandra alleganiensis Daudin, 1803			
+output-CITES3-synonyms.csv	5347SYN74	5347	synonym	Salamandra maxima Barton, 1808			
+output-CITES3-synonyms.csv	5347SYN75	5347	synonym	Salamandra gigantea Barton, 1808			
+output-CITES3-synonyms.csv	5347SYN76	5347	synonym	Abranchus alleghaniensis Harlan, 1825			
+output-CITES3-synonyms.csv	5347SYN77	5347	synonym	Salamandra (menopoma) gigantea Schlegel, 1858			
+output-CITES3-synonyms.csv	5347SYN78	5347	synonym	Menopoma fusca Holbrook, 1842			
+output-CITES3-synonyms.csv	5347SYN79	5347	synonym	Menopoma fuscum Yarrow, 1882			
+output-CITES3-synonyms.csv	5347SYN80	5347	synonym	Cryptobranchus alleganiensis alleganiensis Schmidt, 1953			
+output-CITES3-synonyms.csv	5347SYN81	5347	synonym	Cryptobranchus terassodactylos Wellborn, 1936			
+output-CITES3-synonyms.csv	5347SYN82	5347	synonym	Cryptobranchus bishopi Grobman, 1943			
+output-CITES3-synonyms.csv	5347SYN83	5347	synonym	Cryptobranchus bishopi Collins, 1991			
+output-CITES3-synonyms.csv	5347SYN84	5347	synonym	Cryptobranchus fuscus Garman, 1884			
+output-CITES3-synonyms.csv	5347SYN85	5347	synonym	Cryptobranchus alleganiensis Bishop, 1943			
+output-CITES3-synonyms.csv	5347SYN86	5347	synonym	Cryptobranchus alleganiensis Garman, 1884			
+output-CITES3-synonyms.csv	5347SYN87	5347	synonym	Cryptobranchus alleganiensis bishopi Schmidt, 1953			
+output-CITES3-synonyms.csv	5368SYN88	5368	synonym	Coendou mexicanus (Kerr, 1792)			
+output-CITES3-synonyms.csv	5686SYN89	5686	synonym	Dendrocygna fulva Hartlaub, 1844			
+output-CITES3-synonyms.csv	5686SYN90	5686	synonym	Anas bicolor Vieillot, 1816			
+output-CITES3-synonyms.csv	5890SYN91	5890	synonym	Pyrrhula cineracea Cabanis, 1872			
+output-CITES3-synonyms.csv	5950SYN92	5950	synonym	Columba mayeri Prévost, 1843			
+output-CITES3-synonyms.csv	5950SYN93	5950	synonym	Streptopelia mayeri (Prévost, 1843)			
+output-CITES3-synonyms.csv	6035SYN94	6035	synonym	Paracorallium japonicum (Kishinouye, 1903)			
+output-CITES3-synonyms.csv	6235SYN95	6235	synonym	Daboia siamensis (Smith, 1917)			
+output-CITES3-synonyms.csv	6235SYN96	6235	synonym	Daboia elegans (Daudin, 1803)			
+output-CITES3-synonyms.csv	6235SYN97	6235	synonym	Vipera lebetina russelii (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	6235SYN98	6235	synonym	Vipera russelii (Shaw & Nodder, 1797)			
+output-CITES3-synonyms.csv	6235SYN99	6235	synonym	Vipera elegans Daudin, 1803			
+output-CITES3-synonyms.csv	6235SYN100	6235	synonym	Coluber daboie Latreille, 1801			
+output-CITES3-synonyms.csv	6235SYN101	6235	synonym	Coluber trinoculus Schneider, 1802			
+output-CITES3-synonyms.csv	6235SYN102	6235	synonym	Coluber russelii Shaw & Nodder, 1797			
+output-CITES3-synonyms.csv	6235SYN103	6235	synonym	Daboia pulchella Gray, 1842			
+output-CITES3-synonyms.csv	6235SYN104	6235	synonym	Vipera daboya Daudin, 1803			
+output-CITES3-synonyms.csv	6235SYN105	6235	synonym	Coluber triseriatus Hermann, 1804			
+output-CITES3-synonyms.csv	6235SYN106	6235	synonym	Echidna russelii (Shaw & Nodder, 1797)			
+output-CITES3-synonyms.csv	6509SYN107	6509	synonym	Malaclemys versa McDowell, 1964			
+output-CITES3-synonyms.csv	6509SYN108	6509	synonym	Graptemys pseudogeographica versa Stejneger 1925			
+output-CITES3-synonyms.csv	6973SYN109	6973	synonym	Herpestes palustris Ghose, 1965			
+output-CITES3-synonyms.csv	7122SYN110	7122	synonym	Coendou spinosus (F. Cuvier, 1823)			
+output-CITES3-synonyms.csv	7122SYN111	7122	synonym	Sphiggurus paragayensis Oken, 1816			
+output-CITES3-synonyms.csv	7122SYN112	7122	synonym	Coendou paragayensis Oken, 1816			
+output-CITES3-synonyms.csv	7168SYN113	7168	synonym	Herpestes brachyurus fuscus Gray, 1837			
+output-CITES3-synonyms.csv	7173SYN114	7173	synonym	Martes flavigula gwatkinsii (Boddaert, 1785)			
+output-CITES3-synonyms.csv	7506SYN115	7506	synonym	Penelope vetula Wagler, 1830			
+output-CITES3-synonyms.csv	7924SYN116	7924	synonym	Hoserelapidea nigrocinctus (Girard, 1855)			
+output-CITES3-synonyms.csv	7925SYN117	7925	synonym	Bebrornis rodericanus (Newton, 1865)			
+output-CITES3-synonyms.csv	7972SYN118	7972	synonym	Meleagris satyra Linnaeus, 1758			
+output-CITES3-synonyms.csv	8113SYN119	8113	synonym	Emys sinensis Gray, 1834			
+output-CITES3-synonyms.csv	8113SYN120	8113	synonym	Ocadia sinensis (Gray, 1834)			
+output-CITES3-synonyms.csv	8113SYN121	8113	synonym	Emys bennettii Gray, 1844			
+output-CITES3-synonyms.csv	8113SYN122	8113	synonym	Ocadia philippeni McCord and Iverson, 1992			
+output-CITES3-synonyms.csv	8113SYN123	8113	synonym	Ocadia glyphistoma McCord and Iverson, 1994			
+output-CITES3-synonyms.csv	8423SYN124	8423	synonym	Damonia reevesii (Gray, 1831)			
+output-CITES3-synonyms.csv	8423SYN125	8423	synonym	Geoclemys grangeri K. P. Schmidt, 1927			
+output-CITES3-synonyms.csv	8423SYN126	8423	synonym	Geoclemys paracaretta Chang, 1929			
+output-CITES3-synonyms.csv	8423SYN127	8423	synonym	Damonia unicolor Gray, 1873			
+output-CITES3-synonyms.csv	8423SYN128	8423	synonym	Emys vulgaris picta Gray, 1831			
+output-CITES3-synonyms.csv	8423SYN129	8423	synonym	Mauremys megalocephala (Fang, 1934)			
+output-CITES3-synonyms.csv	8423SYN130	8423	synonym	Emys reevesii Gray, 1831			
+output-CITES3-synonyms.csv	8423SYN131	8423	synonym	Chinemys megalocephala Fang, 1934			
+output-CITES3-synonyms.csv	8423SYN132	8423	synonym	Chinemys reevesii (Gray, 1831)			
+output-CITES3-synonyms.csv	8423SYN133	8423	synonym	Emys japonica Duméril			
+output-CITES3-synonyms.csv	8423SYN134	8423	synonym	Bibron & Duméril, 1851			
+output-CITES3-synonyms.csv	8521SYN135	8521	synonym	Malaclemys nigrinoda Cochran & Goin, 1970			
+output-CITES3-synonyms.csv	8875SYN136	8875	synonym	Hoserelapidea diastema (Duméril, Bibron & Duméril, 1854)			
+output-CITES3-synonyms.csv	8987SYN137	8987	synonym	Agouti paca (Linnaeus, 1766)			
+output-CITES3-synonyms.csv	9049SYN138	9049	synonym	Malacoclemmys oculifera Baur, 1890			
+output-CITES3-synonyms.csv	9146SYN139	9146	synonym	Cabassous gymnurus (Olfers, 1818)			
+output-CITES3-synonyms.csv	9172SYN140	9172	synonym	Nasua nelsoni Merriam, 1901			
+output-CITES3-synonyms.csv	9179SYN141	9179	synonym	Rosmarus rosmarus (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	9244SYN142	9244	synonym	Stichopus fuscus Ludwig, 1875			
+output-CITES3-synonyms.csv	9286SYN143	9286	synonym	Andigena bailloni Vieillot, 1819)			
+output-CITES3-synonyms.csv	9286SYN144	9286	synonym	Pteroglossus bailloni (Vieillot, 1819)			
+output-CITES3-synonyms.csv	9286SYN145	9286	synonym	Ramphastos bailloni Vieillot, 1819			
+output-CITES3-synonyms.csv	9288SYN146	9288	synonym	Acanthis flammea (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	9288SYN147	9288	synonym	Carduelis cabaret (Müller, 1776)			
+output-CITES3-synonyms.csv	9466SYN148	9466	synonym	Tylototriton andersoni Boulenger, 1892			
+output-CITES3-synonyms.csv	10029SYN149	10029	synonym	Acanthis cannabina (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	10223SYN150	10223	synonym	Viverra civetta Schreber, 1776			
+output-CITES3-synonyms.csv	10235SYN151	10235	synonym	Hoplodactylus duvauceli (Duméril & Bibron, 1836)			
+output-CITES3-synonyms.csv	10277SYN152	10277	synonym	Herpestes edwardsii (E. Geoffroy Saint-Hilaire, 1818)			
+output-CITES3-synonyms.csv	10359SYN153	10359	synonym	Crax pauxi Linnaeus, 1766			
+output-CITES3-synonyms.csv	10393SYN154	10393	synonym	Tchitrea bourbonnensis (Müller, 1776)			
+output-CITES3-synonyms.csv	10450SYN155	10450	synonym	Pteroglossus maculirostris Lichtenstein, 1823			
+output-CITES3-synonyms.csv	10490SYN156	10490	synonym	Testudo geographica LeSueur, 1817			
+output-CITES3-synonyms.csv	10490SYN157	10490	synonym	Emys megacephala Holbrook, 1836			
+output-CITES3-synonyms.csv	10490SYN158	10490	synonym	Emys lesueurii  Gray, 1830			
+output-CITES3-synonyms.csv	10553SYN159	10553	synonym	Anas autumnalis Linnaeus, 1758			
+output-CITES3-synonyms.csv	10869SYN160	10869	synonym	Caudiverbera caudiverbera Linnaeus, 1758			
+output-CITES3-synonyms.csv	10927SYN161	10927	synonym	Spinus spinus (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	11224SYN162	11224	synonym	Vampyrops lineatus É. Geoffroy, 1810			
+output-CITES3-synonyms.csv	11224SYN163	11224	synonym	Platyrrhinus nigellus Gardner & Carter, 1972			
+output-CITES3-synonyms.csv	11288SYN164	11288	synonym	Viverra tainguensis Sokolov			
+output-CITES3-synonyms.csv	11288SYN165	11288	synonym	Rozhnov & Anh, 1997			
+output-CITES3-synonyms.csv	12174SYN166	12174	synonym	Vulpes vulpes leucopus (Linnaeus, 1758)			
+output-CITES3-synonyms.csv	12195SYN167	12195	synonym	Herpestes auropunctatus (Hodgson, 1836)			
+output-CITES3-synonyms.csv	12217SYN168	12217	synonym	Mazama americana cerasina (Erxleben, 1777)			
+output-CITES3-synonyms.csv	19760SYN169	19760	synonym	Othonna minima DC.			
+output-CITES3-synonyms.csv	27490SYN170	27490	synonym	Podocarpus neglectus Blume			
+output-CITES3-synonyms.csv	27490SYN171	27490	synonym	Podocarpus decipiens N.E.Gray			
+output-CITES3-synonyms.csv	27490SYN172	27490	synonym	Nageia neglecta (Blume) Kuntze			
+output-CITES3-synonyms.csv	27490SYN173	27490	synonym	Podocarpus endlicherianus Carrière			
+output-CITES3-synonyms.csv	27490SYN174	27490	synonym	Margbensonia neriifolia (D.Don) A.V.Bobrov & Melikyan			
+output-CITES3-synonyms.csv	27490SYN175	27490	synonym	Nageia leptostachya (Blume) Kuntze			
+output-CITES3-synonyms.csv	27490SYN176	27490	synonym	Nageia discolor (Blume) Kuntze			
+output-CITES3-synonyms.csv	27490SYN177	27490	synonym	Podocarpus discolor Blume			
+output-CITES3-synonyms.csv	27490SYN178	27490	synonym	Podocarpus junghuhnianus Miq.			
+output-CITES3-synonyms.csv	27490SYN179	27490	synonym	Podocarpus leptostachys Blume			
+output-CITES3-synonyms.csv	27490SYN180	27490	synonym	Nageia neriifolia (D.Don) Kuntze			
+output-CITES3-synonyms.csv	27490SYN181	27490	synonym	Nageia endlicheriana (Carrière) Kuntze			
+output-CITES3-synonyms.csv	65566SYN182	65566	synonym	Capra formosovi Tzalkin, 1949			
+output-CITES3-synonyms.csv	65566SYN183	65566	synonym	Capra hemalayana Hodgson, 1841			
+output-CITES3-synonyms.csv	65566SYN184	65566	synonym	Capra filippii Camerano, 1911			
+output-CITES3-synonyms.csv	65566SYN185	65566	synonym	Capra lorenzi Satunin, 1905			
+output-CITES3-synonyms.csv	65566SYN186	65566	synonym	Capra hagenbecki Noack, 1903			
+output-CITES3-synonyms.csv	65566SYN187	65566	synonym	Capra dementievi Tzalkin, 1949			
+output-CITES3-synonyms.csv	65566SYN188	65566	synonym	Capra merzbacheri (Leisewitz, 1906)			
+output-CITES3-synonyms.csv	65566SYN189	65566	synonym	Capra fasciata Noack, 1902			
+output-CITES3-synonyms.csv	65566SYN190	65566	synonym	Capra pallasii Schinz, 1838			
+output-CITES3-synonyms.csv	65566SYN191	65566	synonym	Capra pedri Lorenz, 1906			
+output-CITES3-synonyms.csv	65566SYN192	65566	synonym	Capra sacin Lydekker, 1898			
+output-CITES3-synonyms.csv	65566SYN193	65566	synonym	Capra sakeen Blyth, 1842			
+output-CITES3-synonyms.csv	65566SYN194	65566	synonym	Capra dauvergnii Sterndale, 1886			
+output-CITES3-synonyms.csv	65566SYN195	65566	synonym	Capra sakin (Hodgson, 1847)			
+output-CITES3-synonyms.csv	65566SYN196	65566	synonym	Capra skyn (Wagner, 1844)			
+output-CITES3-synonyms.csv	65566SYN197	65566	synonym	Capra transalaiana Lorenz, 1906			
+output-CITES3-synonyms.csv	65566SYN198	65566	synonym	Capra typica Lorenz, 1906			
+output-CITES3-synonyms.csv	65566SYN199	65566	synonym	Capra wardi Lydekker, 1900			
+output-CITES3-synonyms.csv	65566SYN200	65566	synonym	Capra altaica Noack, 1902			
+output-CITES3-synonyms.csv	65566SYN201	65566	synonym	Capra alaiana Noack 1902			
+output-CITES3-synonyms.csv	65566SYN202	65566	synonym	Capra lydekkeri W.Rothschild, 1900			
+output-CITES3-synonyms.csv	65566SYN203	65566	synonym	Capra almasyi Lorenz, 1906			
+output-CITES3-synonyms.csv	65567SYN204	65567	synonym	Gazella kennioni Lydekker, 1908			
+output-CITES3-synonyms.csv	65567SYN205	65567	synonym	Gazella fuscifrons Blanford, 1873			
+output-CITES3-synonyms.csv	65567SYN206	65567	synonym	Gazella hayi Lydekker, 1911			
+output-CITES3-synonyms.csv	65567SYN207	65567	synonym	Gazella hazenna (I.Geoffroy Saint-Hilaire, 1843)			
+output-CITES3-synonyms.csv	65567SYN208	65567	synonym	Gazella karamii Groves, 1993			
+output-CITES3-synonyms.csv	65567SYN209	65567	synonym	Gazella christii Blyth, 1842			
+output-CITES3-synonyms.csv	65567SYN210	65567	synonym	Gazella shikarii Groves, 1993			
+output-CITES3-synonyms.csv	65567SYN211	65567	synonym	Gazella christyi Lydekker, 1914			
+output-CITES3-synonyms.csv	65567SYN212	65567	synonym	Gazella salinarum Groves, 2003			
+output-CITES3-synonyms.csv	65574SYN213	65574	synonym	Boselaphus picta (Pallas, 1777)			
+output-CITES3-synonyms.csv	65574SYN214	65574	synonym	Boselaphus risia (C.H.Smith, 1827)			
+output-CITES3-synonyms.csv	65574SYN215	65574	synonym	Antilope tragocamelus Pallas, 1766			
+output-CITES3-synonyms.csv	65574SYN216	65574	synonym	Boselaphus albipes (Erxleben, 1777)			
+output-CITES3-synonyms.csv	65574SYN217	65574	synonym	Boselaphus tragelaphus (Sundevall, 1846)			
+output-CITES3-synonyms.csv	65574SYN218	65574	synonym	Boselaphus hippelaphus (Ogilby, 1837)			
+output-CITES3-synonyms.csv	65582SYN219	65582	synonym	Capra aegagrus Erxleben, 1777			
+output-CITES3-synonyms.csv	65584SYN220	65584	synonym	Pseudois nahoor (Hodgson, 1835)			
+output-CITES3-synonyms.csv	65584SYN221	65584	synonym	Pseudois barhal (Hodgson, 1846)			
+output-CITES3-synonyms.csv	65584SYN222	65584	synonym	Pseudois burrhel (Blyth, 1841)			
+output-CITES3-synonyms.csv	65584SYN223	65584	synonym	Pseudois caesia Howell, 1928			
+output-CITES3-synonyms.csv	65584SYN224	65584	synonym	Pseudois szechuanensis W. Rothschild, 1922			
+output-CITES3-synonyms.csv	65584SYN225	65584	synonym	Pseudois nahura (Gray, 1843)			
+output-CITES3-synonyms.csv	65718SYN226	65718	synonym	Hoplodactylus chrysosireticus Robb, 1980			
+output-CITES3-synonyms.csv	65719SYN227	65719	synonym	Hoplodactylus cryptozoicus Jewell & Leschen, 2004			
+output-CITES3-synonyms.csv	65720SYN228	65720	synonym	Hoplodactylus granulatus Gray, 1845			
+output-CITES3-synonyms.csv	65721SYN229	65721	synonym	Hoplodactylus kahutarae Whitaker, 1985			
+output-CITES3-synonyms.csv	65722SYN230	65722	synonym	Hoplodactylus maculatus Gray, 1845			
+output-CITES3-synonyms.csv	65723SYN231	65723	synonym	Hoplodactylus nebulosus McCann, 1955			
+output-CITES3-synonyms.csv	65724SYN232	65724	synonym	Hoplodactylus pacificus Gray, 1842			
+output-CITES3-synonyms.csv	65726SYN233	65726	synonym	Hoplodactylus rakiurae Thomas, 1981			
+output-CITES3-synonyms.csv	65727SYN234	65727	synonym	Hoplodactylus stephensi Robb, 1980			
+output-CITES3-synonyms.csv	68445SYN235	68445	synonym	Dactylocnemis "Mokohinau" Nielsen			
+output-CITES3-synonyms.csv	68445SYN238	68445	synonym	Hitchmough & Daugherty, 2011			
+output-CITES3-synonyms.csv	68476SYN239	68476	synonym	Taeniura constellata Vaillant, 1880			
+output-CITES3-synonyms.csv	68476SYN240	68476	synonym	Potamotrygon circularis Garman, 1913			
+output-CITES3-synonyms.csv	68477SYN241	68477	synonym	Taeniura magdalenae Duméril (ex Valenciennes), 1865			
+output-CITES3-synonyms.csv	68478SYN242	68478	synonym	Potamotrygon laticeps Garman, 1913			
+output-CITES3-synonyms.csv	68478SYN243	68478	synonym	Trygon adans Schomburgk in Müller & Trochel, 1849			
+output-CITES3-synonyms.csv	68478SYN244	68478	synonym	Potamotrygon alba Castex, 1963			
+output-CITES3-synonyms.csv	68478SYN245	68478	synonym	Potamotrygon labradori Castex in Castex			
+output-CITES3-synonyms.csv	68478SYN246	68478	synonym	Maciel & Martínez Achenbach, 1963			
+output-CITES3-synonyms.csv	68478SYN247	68478	synonym	Trygon mulleri Castelnau, 1855			
+output-CITES3-synonyms.csv	68478SYN248	68478	synonym	Trygon garrapa Jardine in Schomburgk, 1843			
+output-CITES3-synonyms.csv	68478SYN249	68478	synonym	Taeniura motoro Müller & Henle (ex Natterer), 1841			
+output-CITES3-synonyms.csv	68478SYN250	68478	synonym	Potamotrygon pauckei Castex, 1963			
+output-CITES3-synonyms.csv	68479SYN251	68479	synonym	Trygon dumerilii Castelnau, 1855			
+output-CITES3-synonyms.csv	68479SYN252	68479	synonym	Trygon reticulatus Günther, 1880			
+output-CITES3-synonyms.csv	68479SYN253	68479	synonym	Trygon orbignyi Castelnau, 1855			
+output-CITES3-synonyms.csv	68483SYN254	68483	synonym	Raia sloani Stephan, 1779			
+output-CITES3-synonyms.csv	68483SYN255	68483	synonym	Raja ajereba Walbaum (ex Marcgravus), 1792			
+output-CITES3-synonyms.csv	68483SYN256	68483	synonym	Raja orbicularis Bloch & Schneider (ex Marcgravus), 1801			
+output-CITES3-synonyms.csv	68483SYN257	68483	synonym	Disceus thayeri Garman, 1913			
+output-CITES3-synonyms.csv	68483SYN258	68483	synonym	Trygon aiereba Müller & Henle (ex Marcgravus), 1841			
+output-CITES3-synonyms.csv	68483SYN259	68483	synonym	Trygon strogylopterus Jardine in Schomburgk, 1843			
+output-CITES3-synonyms.csv	68484SYN260	68484	synonym	Trygon brachyurus Günther, 1880			
+output-CITES3-synonyms.csv	68484SYN261	68484	synonym	Potamotrygon brumi Devincenzi in Devincenzi & Teague, 1942			
+output-CITES3-synonyms.csv	68485SYN262	68485	synonym	Potamotrygon castexi Castello & Yagolkowski, 1969			
+output-CITES3-synonyms.csv	68485SYN263	68485	synonym	Potamotrygon menchacai Martínez Achenbach, 1967			
+output-CITES3-synonyms.csv	68487SYN264	68487	synonym	Trygon hystrix Müller & Henle, 1841			
+output-CITES3-synonyms.csv	68487SYN265	68487	synonym	Pastinaca humboldtii Roulin, 1829			
+output-CITES3-synonyms.csv	68489SYN266	68489	synonym	Trygon reticulatus Günther, 1880			
+output-CITES3-synonyms.csv	68489SYN267	68489	synonym	Trygon dumerilii Castelnau, 1855			
+output-CITES3-synonyms.csv	68489SYN268	68489	synonym	Trygon orbignyi Castelnau, 1855			
+output-CITES3-synonyms.csv	68489SYN269	68489	synonym	Trygon hystrix ocellata Engelhardt, 1912			
+output-CITES3-synonyms.csv	68493SYN270	68493	synonym	Potamotrygon humerosus Garman, 1913			
+output-CITES3-synonyms.csv	100677SYN271	100677	synonym	Ceraria pygmaea (Pillans) G.D.Rowley			
+output-CITES3-synonyms.csv	103129SYN272	103129	synonym	Corallium elatius Ridley, 1882			
+output-CITES3-synonyms.csv	103131SYN273	103131	synonym	Corallium konojoi Kishinouye, 1903			
+output-CITES3-synonyms.csv	103131SYN274	103131	synonym	Corallium konjoi Kishinouye, 1903			
+output-CITES3-synonyms.csv	103132SYN275	103132	synonym	Corallium secundum Dana, 1846			
